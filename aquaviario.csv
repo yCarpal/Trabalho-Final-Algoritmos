@@ -1,0 +1,1935 @@
+distr,ds_abreviatura_orgao,CD_UF_ORGAO,ds_orgao,CD_CATEGORIA,DS_CATEGORIA_POR,CD_NIVEL,quantidade
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,2
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,873
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,CCB,CAPITÃO DE CABOTAGEM,9,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,4
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,2
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,CDM,CONDUTOR DE MÁQUINAS,5,3
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MNM,MARINHEIRO DE MÁQUINAS,4,7
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MOC,MOÇO DE CONVÉS,3,20
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,PAP,PATRÃO DE PESCA EM ALTO MAR,6,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,9
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MCB,MESTRE DE CABOTAGEM,6,3
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MOP,MOTORISTA DE PESCA,1,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,POP,PESCADOR PROFISSIONAL,2,378
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,CZA,COZINHEIRO,2,2
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MOM,MOÇO DE MÁQUINAS,3,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,POP,PESCADOR PROFISSIONAL,1,146
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,CTR,CONTRAMESTRE,5,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,396
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,2
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,9
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,4
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,28
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MOP,MOTORISTA DE PESCA,2,8
+1,AgParati,RJ,Agência da Capitania dos Portos em Paraty,MNC,MARINHEIRO DE CONVÉS,4,94
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MNM,MARINHEIRO DE MÁQUINAS,4,584
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,48
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,804
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,902
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CCB,CAPITÃO DE CABOTAGEM,9,290
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CZA,COZINHEIRO,2,425
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,208
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),32
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,17
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PMM,PRATICANTE DE MOÇO DE MÁQUINAS,(null),5
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),6
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,30
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,25
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,48
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MFL,MESTRE FLUVIAL,5,1
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,POP,PESCADOR PROFISSIONAL,1,326
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PRT,PRÁTICO,(null),61
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MOM,MOÇO DE MÁQUINAS,3,95
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,ASA,AUXILIAR DE SAÚDE,3,14
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,738
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PAP,PATRÃO DE PESCA EM ALTO MAR,6,36
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,TAA,TAIFEIRO,2,374
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CTR,CONTRAMESTRE,5,193
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,APP,APRENDIZ DE PESCA,1,15
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CLC,CAPITÃO DE LONGO CURSO,10,404
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,19
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MCB,MESTRE DE CABOTAGEM,6,565
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MOP,MOTORISTA DE PESCA,2,84
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,3
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,855
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,ELC,ESTAGIÁRIO DE ELETRICISTA,6,2
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,1
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,CDM,CONDUTOR DE MÁQUINAS,5,603
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1046
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PON,PRATICANTE DE OFICIAL DE NÁUTICA,(null),1
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,27
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,475
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,ENF,ENFERMEIRO,5,147
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MOP,MOTORISTA DE PESCA,1,5
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,33
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MNC,MARINHEIRO DE CONVÉS,4,1484
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,MOC,MOÇO DE CONVÉS,3,223
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,AMD,AGENTE DE MANOBRA E DOCAGEM,(null),2
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,ELT,ELETRICISTA,5,244
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,352
+1,CPRJ,RJ,Capitania dos Portos do Rio de Janeiro,POP,PESCADOR PROFISSIONAL,2,541
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,POP,PESCADOR PROFISSIONAL,2,99
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,10
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,ELT,ELETRICISTA,5,2
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,12
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,3
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MOP,MOTORISTA DE PESCA,2,21
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MCB,MESTRE DE CABOTAGEM,6,110
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,ENF,ENFERMEIRO,5,12
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CDM,CONDUTOR DE MÁQUINAS,5,18
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,5
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,PAP,PATRÃO DE PESCA EM ALTO MAR,6,3
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,TAA,TAIFEIRO,2,94
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CTR,CONTRAMESTRE,5,21
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MNC,MARINHEIRO DE CONVÉS,4,458
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,6
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,APP,APRENDIZ DE PESCA,1,4
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,2
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,34
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,8
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CLC,CAPITÃO DE LONGO CURSO,10,4
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,11
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,445
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MNM,MARINHEIRO DE MÁQUINAS,4,34
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MOC,MOÇO DE CONVÉS,3,91
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,POP,PESCADOR PROFISSIONAL,1,118
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MOP,MOTORISTA DE PESCA,1,12
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),1
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CZA,COZINHEIRO,2,38
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,CCB,CAPITÃO DE CABOTAGEM,9,1
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,67
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1725
+1,DelAReis,RJ,Delegacia da Capitania dos Portos em Angra dos Rei,MOM,MOÇO DE MÁQUINAS,3,4
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MOP,MOTORISTA DE PESCA,2,1
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MCB,MESTRE DE CABOTAGEM,6,156
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,POP,PESCADOR PROFISSIONAL,2,204
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MNC,MARINHEIRO DE CONVÉS,4,376
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,20
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1256
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,81
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,11
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,ELT,ELETRICISTA,5,22
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CDM,CONDUTOR DE MÁQUINAS,5,97
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,11
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,7
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,TAA,TAIFEIRO,2,32
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MNM,MARINHEIRO DE MÁQUINAS,4,54
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MOC,MOÇO DE CONVÉS,3,88
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,ENF,ENFERMEIRO,5,9
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CTR,CONTRAMESTRE,5,37
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,POP,PESCADOR PROFISSIONAL,1,119
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,8
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CCB,CAPITÃO DE CABOTAGEM,9,8
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CZA,COZINHEIRO,2,41
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MOM,MOÇO DE MÁQUINAS,3,2
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,8
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,APP,APRENDIZ DE PESCA,1,1
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,25
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,354
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CAM,CAMAREIRO,(null),1
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CLC,CAPITÃO DE LONGO CURSO,10,6
+1,DelItacuruçá,RJ,Delegacia da Capitania dos Portos em Itacuruçá,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+1,CPES,ES,Capitania dos Portos do Espírito Santo,ENF,ENFERMEIRO,5,52
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MCB,MESTRE DE CABOTAGEM,6,163
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MOP,MOTORISTA DE PESCA,1,125
+1,CPES,ES,Capitania dos Portos do Espírito Santo,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),13
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MNC,MARINHEIRO DE CONVÉS,4,391
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MOC,MOÇO DE CONVÉS,3,83
+1,CPES,ES,Capitania dos Portos do Espírito Santo,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,44
+1,CPES,ES,Capitania dos Portos do Espírito Santo,POP,PESCADOR PROFISSIONAL,2,1465
+1,CPES,ES,Capitania dos Portos do Espírito Santo,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+1,CPES,ES,Capitania dos Portos do Espírito Santo,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,50
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,29
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CCB,CAPITÃO DE CABOTAGEM,9,11
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,154
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MNM,MARINHEIRO DE MÁQUINAS,4,117
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,212
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,2
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,25
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CTR,CONTRAMESTRE,5,58
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CDE,ESTAGIÁRIO DE CONDUTOR DE MÁQUINAS,(null),2
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CLC,CAPITÃO DE LONGO CURSO,10,21
+1,CPES,ES,Capitania dos Portos do Espírito Santo,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,35
+1,CPES,ES,Capitania dos Portos do Espírito Santo,APP,APRENDIZ DE PESCA,1,8
+1,CPES,ES,Capitania dos Portos do Espírito Santo,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,4
+1,CPES,ES,Capitania dos Portos do Espírito Santo,PRT,PRÁTICO,(null),29
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,36
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CZA,COZINHEIRO,2,150
+1,CPES,ES,Capitania dos Portos do Espírito Santo,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,9
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MOM,MOÇO DE MÁQUINAS,3,15
+1,CPES,ES,Capitania dos Portos do Espírito Santo,POP,PESCADOR PROFISSIONAL,1,675
+1,CPES,ES,Capitania dos Portos do Espírito Santo,PAP,PATRÃO DE PESCA EM ALTO MAR,6,76
+1,CPES,ES,Capitania dos Portos do Espírito Santo,TAA,TAIFEIRO,2,199
+1,CPES,ES,Capitania dos Portos do Espírito Santo,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,22
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CDM,CONDUTOR DE MÁQUINAS,5,111
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,2
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,39
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,19
+1,CPES,ES,Capitania dos Portos do Espírito Santo,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,1
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MOP,MOTORISTA DE PESCA,2,124
+1,CPES,ES,Capitania dos Portos do Espírito Santo,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,39
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,3
+1,CPES,ES,Capitania dos Portos do Espírito Santo,ELT,ELETRICISTA,5,12
+1,CPES,ES,Capitania dos Portos do Espírito Santo,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,461
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,CTR,CONTRAMESTRE,5,3
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,4
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,APP,APRENDIZ DE PESCA,1,1
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,20
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,PRT,PRÁTICO,(null),3
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,3
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,CCB,CAPITÃO DE CABOTAGEM,9,2
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,125
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,51
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,2
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,4
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,3
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,7
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,POP,PESCADOR PROFISSIONAL,2,795
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,ENF,ENFERMEIRO,5,8
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,202
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MCB,MESTRE DE CABOTAGEM,6,10
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,ELT,ELETRICISTA,5,1
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,CDM,CONDUTOR DE MÁQUINAS,5,7
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MOP,MOTORISTA DE PESCA,2,10
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,PAP,PATRÃO DE PESCA EM ALTO MAR,6,1
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,TAA,TAIFEIRO,2,20
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,10
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MNM,MARINHEIRO DE MÁQUINAS,4,8
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,POP,PESCADOR PROFISSIONAL,1,561
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MOC,MOÇO DE CONVÉS,3,7
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MOM,MOÇO DE MÁQUINAS,3,4
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MNC,MARINHEIRO DE CONVÉS,4,63
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,6
+1,AgSJBarra,RJ,Agência da Capitania dos Portos em São João da Bar,CZA,COZINHEIRO,2,33
+1,CPM,RJ,Capitania dos Portos de Macaé,CCB,CAPITÃO DE CABOTAGEM,9,24
+1,CPM,RJ,Capitania dos Portos de Macaé,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,37
+1,CPM,RJ,Capitania dos Portos de Macaé,ASA,AUXILIAR DE SAÚDE,3,1
+1,CPM,RJ,Capitania dos Portos de Macaé,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,14
+1,CPM,RJ,Capitania dos Portos de Macaé,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,1
+1,CPM,RJ,Capitania dos Portos de Macaé,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,207
+1,CPM,RJ,Capitania dos Portos de Macaé,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,4
+1,CPM,RJ,Capitania dos Portos de Macaé,APP,APRENDIZ DE PESCA,1,3
+1,CPM,RJ,Capitania dos Portos de Macaé,CLC,CAPITÃO DE LONGO CURSO,10,13
+1,CPM,RJ,Capitania dos Portos de Macaé,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,4
+1,CPM,RJ,Capitania dos Portos de Macaé,ENF,ENFERMEIRO,5,46
+1,CPM,RJ,Capitania dos Portos de Macaé,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+1,CPM,RJ,Capitania dos Portos de Macaé,MNC,MARINHEIRO DE CONVÉS,4,207
+1,CPM,RJ,Capitania dos Portos de Macaé,ELC,ESTAGIÁRIO DE ELETRICISTA,6,2
+1,CPM,RJ,Capitania dos Portos de Macaé,MOP,MOTORISTA DE PESCA,2,4
+1,CPM,RJ,Capitania dos Portos de Macaé,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,7
+1,CPM,RJ,Capitania dos Portos de Macaé,MNM,MARINHEIRO DE MÁQUINAS,4,62
+1,CPM,RJ,Capitania dos Portos de Macaé,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,131
+1,CPM,RJ,Capitania dos Portos de Macaé,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,110
+1,CPM,RJ,Capitania dos Portos de Macaé,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,16
+1,CPM,RJ,Capitania dos Portos de Macaé,CDM,CONDUTOR DE MÁQUINAS,5,32
+1,CPM,RJ,Capitania dos Portos de Macaé,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,23
+1,CPM,RJ,Capitania dos Portos de Macaé,ELT,ELETRICISTA,5,9
+1,CPM,RJ,Capitania dos Portos de Macaé,POP,PESCADOR PROFISSIONAL,1,361
+1,CPM,RJ,Capitania dos Portos de Macaé,MOM,MOÇO DE MÁQUINAS,3,7
+1,CPM,RJ,Capitania dos Portos de Macaé,MCB,MESTRE DE CABOTAGEM,6,68
+1,CPM,RJ,Capitania dos Portos de Macaé,CTR,CONTRAMESTRE,5,18
+1,CPM,RJ,Capitania dos Portos de Macaé,CZA,COZINHEIRO,2,101
+1,CPM,RJ,Capitania dos Portos de Macaé,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,13
+1,CPM,RJ,Capitania dos Portos de Macaé,TAA,TAIFEIRO,2,132
+1,CPM,RJ,Capitania dos Portos de Macaé,POP,PESCADOR PROFISSIONAL,2,439
+1,CPM,RJ,Capitania dos Portos de Macaé,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,1
+1,CPM,RJ,Capitania dos Portos de Macaé,MOC,MOÇO DE CONVÉS,3,15
+1,CPM,RJ,Capitania dos Portos de Macaé,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,34
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CCB,CAPITÃO DE CABOTAGEM,9,14
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CTR,CONTRAMESTRE,5,45
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CZA,COZINHEIRO,2,90
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,82
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MOM,MOÇO DE MÁQUINAS,3,3
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,238
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,23
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,POP,PESCADOR PROFISSIONAL,2,267
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,TAA,TAIFEIRO,2,167
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,12
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,12
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,47
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CLC,CAPITÃO DE LONGO CURSO,10,22
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,43
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,APP,APRENDIZ DE PESCA,1,2
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MOC,MOÇO DE CONVÉS,3,51
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MNM,MARINHEIRO DE MÁQUINAS,4,83
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CDM,CONDUTOR DE MÁQUINAS,5,69
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MNC,MARINHEIRO DE CONVÉS,4,533
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,POP,PESCADOR PROFISSIONAL,1,89
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,2
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,PLF,PILOTO FLUVIAL,6,1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,29
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,ELT,ELETRICISTA,5,23
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,34
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,ENF,ENFERMEIRO,5,27
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MCB,MESTRE DE CABOTAGEM,6,129
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,ASA,AUXILIAR DE SAÚDE,3,3
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MOP,MOTORISTA DE PESCA,2,7
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,PAP,PATRÃO DE PESCA EM ALTO MAR,6,3
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1112
+1,DelCFrio,RJ,Delegacia da Capitania dos Portos em Cabo Frio,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,65
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MNC,MARINHEIRO DE CONVÉS,4,2
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MOC,MOÇO DE CONVÉS,3,2
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,2
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,149
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,POP,PESCADOR PROFISSIONAL,1,34
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MOP,MOTORISTA DE PESCA,1,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,CLC,CAPITÃO DE LONGO CURSO,10,4
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,CMF,CONTRAMESTRE FLUVIAL,4,13
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,39
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MFL,MESTRE FLUVIAL,5,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,TAA,TAIFEIRO,2,3
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MCB,MESTRE DE CABOTAGEM,6,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,ENF,ENFERMEIRO,5,2
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,13
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,ELT,ELETRICISTA,5,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MOM,MOÇO DE MÁQUINAS,3,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,CCB,CAPITÃO DE CABOTAGEM,9,1
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,6
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,7
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,10
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,6
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,20
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,POP,PESCADOR PROFISSIONAL,2,24
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,394
+1,CFBELZ,MG,Capitania Fluvial de Minas Gerais,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,2
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,109
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,15
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,18
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,1
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,4
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MOP,MOTORISTA DE PESCA,1,1
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,CMF,CONTRAMESTRE FLUVIAL,4,24
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,POP,PESCADOR PROFISSIONAL,2,2
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,218
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,4
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,POP,PESCADOR PROFISSIONAL,1,53
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,18
+1,DelFurnas,MG,Delegacia Fluvial de Furnas,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,3
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,633
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,CFL,CAPITÃO FLUVIAL,7,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,SUF,SUPERVISOR MAQUINISTA - MOTORISTA FLUVIAL,7,3
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,2
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,57
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,ASA,AUXILIAR DE SAÚDE,3,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,APP,APRENDIZ DE PESCA,1,30
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,709
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,31
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,140
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,CMF,CONTRAMESTRE FLUVIAL,4,63
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,CDM,CONDUTOR DE MÁQUINAS,5,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,PLF,PILOTO FLUVIAL,6,7
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,POP,PESCADOR PROFISSIONAL,1,551
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MCB,MESTRE DE CABOTAGEM,6,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,TAA,TAIFEIRO,2,1
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,POP,PESCADOR PROFISSIONAL,2,411
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,7
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,CZA,COZINHEIRO,2,7
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,38
+1,DelPirapora,MG,Delegacia Fluvial de Pirapora,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,9
+2,CPBA,BA,Capitania dos Portos da Bahia,MCB,MESTRE DE CABOTAGEM,6,194
+2,CPBA,BA,Capitania dos Portos da Bahia,POP,PESCADOR PROFISSIONAL,2,328
+2,CPBA,BA,Capitania dos Portos da Bahia,TAA,TAIFEIRO,2,6
+2,CPBA,BA,Capitania dos Portos da Bahia,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,18
+2,CPBA,BA,Capitania dos Portos da Bahia,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,36
+2,CPBA,BA,Capitania dos Portos da Bahia,CCB,CAPITÃO DE CABOTAGEM,9,8
+2,CPBA,BA,Capitania dos Portos da Bahia,CDM,CONDUTOR DE MÁQUINAS,5,144
+2,CPBA,BA,Capitania dos Portos da Bahia,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,1
+2,CPBA,BA,Capitania dos Portos da Bahia,ELT,ELETRICISTA,5,4
+2,CPBA,BA,Capitania dos Portos da Bahia,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+2,CPBA,BA,Capitania dos Portos da Bahia,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,77
+2,CPBA,BA,Capitania dos Portos da Bahia,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),1
+2,CPBA,BA,Capitania dos Portos da Bahia,ENF,ENFERMEIRO,5,7
+2,CPBA,BA,Capitania dos Portos da Bahia,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1537
+2,CPBA,BA,Capitania dos Portos da Bahia,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,20
+2,CPBA,BA,Capitania dos Portos da Bahia,CDE,ESTAGIÁRIO DE CONDUTOR DE MÁQUINAS,(null),3
+2,CPBA,BA,Capitania dos Portos da Bahia,PRT,PRÁTICO,(null),33
+2,CPBA,BA,Capitania dos Portos da Bahia,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,18
+2,CPBA,BA,Capitania dos Portos da Bahia,CLC,CAPITÃO DE LONGO CURSO,10,9
+2,CPBA,BA,Capitania dos Portos da Bahia,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+2,CPBA,BA,Capitania dos Portos da Bahia,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,206
+2,CPBA,BA,Capitania dos Portos da Bahia,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,3
+2,CPBA,BA,Capitania dos Portos da Bahia,CMF,CONTRAMESTRE FLUVIAL,4,1
+2,CPBA,BA,Capitania dos Portos da Bahia,MNM,MARINHEIRO DE MÁQUINAS,4,155
+2,CPBA,BA,Capitania dos Portos da Bahia,MOC,MOÇO DE CONVÉS,3,121
+2,CPBA,BA,Capitania dos Portos da Bahia,CTR,CONTRAMESTRE,5,59
+2,CPBA,BA,Capitania dos Portos da Bahia,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,470
+2,CPBA,BA,Capitania dos Portos da Bahia,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+2,CPBA,BA,Capitania dos Portos da Bahia,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,104
+2,CPBA,BA,Capitania dos Portos da Bahia,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,12
+2,CPBA,BA,Capitania dos Portos da Bahia,CZA,COZINHEIRO,2,24
+2,CPBA,BA,Capitania dos Portos da Bahia,MNC,MARINHEIRO DE CONVÉS,4,293
+2,CPBA,BA,Capitania dos Portos da Bahia,MOM,MOÇO DE MÁQUINAS,3,11
+2,CPBA,BA,Capitania dos Portos da Bahia,POP,PESCADOR PROFISSIONAL,1,366
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,2
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,564
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,2
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,3
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CCB,CAPITÃO DE CABOTAGEM,9,2
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,4
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,27
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,38
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MOP,MOTORISTA DE PESCA,1,1
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,POP,PESCADOR PROFISSIONAL,2,540
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MNM,MARINHEIRO DE MÁQUINAS,4,53
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MOC,MOÇO DE CONVÉS,3,13
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,2
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,PAP,PATRÃO DE PESCA EM ALTO MAR,6,8
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,TAA,TAIFEIRO,2,45
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,ELT,ELETRICISTA,5,6
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,5
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,4
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,9
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,POP,PESCADOR PROFISSIONAL,1,294
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MOM,MOÇO DE MÁQUINAS,3,6
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CZA,COZINHEIRO,2,23
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,6
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CTR,CONTRAMESTRE,5,6
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,304
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,4
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MOP,MOTORISTA DE PESCA,2,40
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,3
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,19
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MCB,MESTRE DE CABOTAGEM,6,33
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,ELC,ESTAGIÁRIO DE ELETRICISTA,6,1
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CLC,CAPITÃO DE LONGO CURSO,10,2
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,ASA,AUXILIAR DE SAÚDE,3,1
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,CDM,CONDUTOR DE MÁQUINAS,5,18
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,ENF,ENFERMEIRO,5,3
+2,DelIlheus,BA,Delegacia da Capitania dos Portos em Ilhéus,MNC,MARINHEIRO DE CONVÉS,4,135
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,4
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,APP,APRENDIZ DE PESCA,1,1
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,34
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,50
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CDM,CONDUTOR DE MÁQUINAS,5,2
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,139
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CMF,CONTRAMESTRE FLUVIAL,4,22
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MNM,MARINHEIRO DE MÁQUINAS,4,15
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CZA,COZINHEIRO,2,3
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MOP,MOTORISTA DE PESCA,1,12
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MOC,MOÇO DE CONVÉS,3,8
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,8
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MNC,MARINHEIRO DE CONVÉS,4,72
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,POP,PESCADOR PROFISSIONAL,1,573
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CCB,CAPITÃO DE CABOTAGEM,9,1
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,143
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,13
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,6
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,10
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,6
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,401
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MOM,MOÇO DE MÁQUINAS,3,4
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MCB,MESTRE DE CABOTAGEM,6,3
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,POP,PESCADOR PROFISSIONAL,2,547
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,MOP,MOTORISTA DE PESCA,2,45
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,PAP,PATRÃO DE PESCA EM ALTO MAR,6,5
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,CTR,CONTRAMESTRE,5,4
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,ENF,ENFERMEIRO,5,5
+2,DelPSeguro,BA,Delegacia da Capitania dos Portos em Porto Seguro,TAA,TAIFEIRO,2,4
+2,CPSE,SE,Capitania dos Portos de Sergipe,MOP,MOTORISTA DE PESCA,2,41
+2,CPSE,SE,Capitania dos Portos de Sergipe,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MCB,MESTRE DE CABOTAGEM,6,105
+2,CPSE,SE,Capitania dos Portos de Sergipe,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,16
+2,CPSE,SE,Capitania dos Portos de Sergipe,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,14
+2,CPSE,SE,Capitania dos Portos de Sergipe,ASA,AUXILIAR DE SAÚDE,3,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,PON,PRATICANTE DE OFICIAL DE NÁUTICA,(null),1
+2,CPSE,SE,Capitania dos Portos de Sergipe,PRT,PRÁTICO,(null),2
+2,CPSE,SE,Capitania dos Portos de Sergipe,TAA,TAIFEIRO,2,118
+2,CPSE,SE,Capitania dos Portos de Sergipe,CDM,CONDUTOR DE MÁQUINAS,5,43
+2,CPSE,SE,Capitania dos Portos de Sergipe,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,6
+2,CPSE,SE,Capitania dos Portos de Sergipe,ENF,ENFERMEIRO,5,25
+2,CPSE,SE,Capitania dos Portos de Sergipe,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,131
+2,CPSE,SE,Capitania dos Portos de Sergipe,CTR,CONTRAMESTRE,5,20
+2,CPSE,SE,Capitania dos Portos de Sergipe,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,2
+2,CPSE,SE,Capitania dos Portos de Sergipe,POP,PESCADOR PROFISSIONAL,1,55
+2,CPSE,SE,Capitania dos Portos de Sergipe,EAM,Estagiário de Adaptação de Máquinas,(null),1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,2
+2,CPSE,SE,Capitania dos Portos de Sergipe,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MNM,MARINHEIRO DE MÁQUINAS,4,98
+2,CPSE,SE,Capitania dos Portos de Sergipe,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MOC,MOÇO DE CONVÉS,3,31
+2,CPSE,SE,Capitania dos Portos de Sergipe,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,4
+2,CPSE,SE,Capitania dos Portos de Sergipe,ELT,ELETRICISTA,5,4
+2,CPSE,SE,Capitania dos Portos de Sergipe,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,8
+2,CPSE,SE,Capitania dos Portos de Sergipe,MOP,MOTORISTA DE PESCA,1,12
+2,CPSE,SE,Capitania dos Portos de Sergipe,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,30
+2,CPSE,SE,Capitania dos Portos de Sergipe,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,6
+2,CPSE,SE,Capitania dos Portos de Sergipe,POP,PESCADOR PROFISSIONAL,2,129
+2,CPSE,SE,Capitania dos Portos de Sergipe,MNC,MARINHEIRO DE CONVÉS,4,293
+2,CPSE,SE,Capitania dos Portos de Sergipe,CLC,CAPITÃO DE LONGO CURSO,10,5
+2,CPSE,SE,Capitania dos Portos de Sergipe,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,9
+2,CPSE,SE,Capitania dos Portos de Sergipe,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,395
+2,CPSE,SE,Capitania dos Portos de Sergipe,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,67
+2,CPSE,SE,Capitania dos Portos de Sergipe,MOM,MOÇO DE MÁQUINAS,3,8
+2,CPSE,SE,Capitania dos Portos de Sergipe,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,1
+2,CPSE,SE,Capitania dos Portos de Sergipe,CCB,CAPITÃO DE CABOTAGEM,9,9
+2,CPSE,SE,Capitania dos Portos de Sergipe,CZA,COZINHEIRO,2,99
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,256
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,32
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,ENF,ENFERMEIRO,5,1
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,POP,PESCADOR PROFISSIONAL,2,243
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,TAA,TAIFEIRO,2,1
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,CMF,CONTRAMESTRE FLUVIAL,4,26
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,3
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,16
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MNM,MARINHEIRO DE MÁQUINAS,4,1
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,522
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,POP,PESCADOR PROFISSIONAL,1,689
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,PLF,PILOTO FLUVIAL,6,1
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,2
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,4
+2,AgBJLapa,BA,Agência Fluvial de Bom Jesus da Lapa,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,40
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,422
+2,CFJ,BA,Capitania Fluvial de Juazeiro,TAA,TAIFEIRO,2,2
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,17
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,19
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,1
+2,CFJ,BA,Capitania Fluvial de Juazeiro,CZA,COZINHEIRO,2,1
+2,CFJ,BA,Capitania Fluvial de Juazeiro,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,2
+2,CFJ,BA,Capitania Fluvial de Juazeiro,POP,PESCADOR PROFISSIONAL,2,192
+2,CFJ,BA,Capitania Fluvial de Juazeiro,CLC,CAPITÃO DE LONGO CURSO,10,1
+2,CFJ,BA,Capitania Fluvial de Juazeiro,CMF,CONTRAMESTRE FLUVIAL,4,12
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MNC,MARINHEIRO DE CONVÉS,4,2
+2,CFJ,BA,Capitania Fluvial de Juazeiro,PLF,PILOTO FLUVIAL,6,4
+2,CFJ,BA,Capitania Fluvial de Juazeiro,POP,PESCADOR PROFISSIONAL,1,52
+2,CFJ,BA,Capitania Fluvial de Juazeiro,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,26
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,113
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,214
+2,CFJ,BA,Capitania Fluvial de Juazeiro,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,1
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,APP,APRENDIZ DE PESCA,1,4
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MCB,MESTRE DE CABOTAGEM,6,4
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MOP,MOTORISTA DE PESCA,2,62
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,CDM,CONDUTOR DE MÁQUINAS,5,6
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MNC,MARINHEIRO DE CONVÉS,4,24
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,POP,PESCADOR PROFISSIONAL,1,1416
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,CTR,CONTRAMESTRE,5,3
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,5
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,ENF,ENFERMEIRO,5,1
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MNM,MARINHEIRO DE MÁQUINAS,4,20
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MOC,MOÇO DE CONVÉS,3,5
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,TAA,TAIFEIRO,2,2
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,2
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,4
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,9
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MOP,MOTORISTA DE PESCA,1,71
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,POP,PESCADOR PROFISSIONAL,2,2687
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,CZA,COZINHEIRO,2,2
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+3,AgAracati,CE,Agência da Capitania dos Portos em Aracati,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,28
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,2
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MOP,MOTORISTA DE PESCA,2,57
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,PAP,PATRÃO DE PESCA EM ALTO MAR,6,10
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,TAA,TAIFEIRO,2,41
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,2
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,96
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,POP,PESCADOR PROFISSIONAL,1,1365
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,14
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,2
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,APP,APRENDIZ DE PESCA,1,2
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,ENF,ENFERMEIRO,5,4
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,CTR,CONTRAMESTRE,5,3
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,CZA,COZINHEIRO,2,6
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MNC,MARINHEIRO DE CONVÉS,4,138
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MNM,MARINHEIRO DE MÁQUINAS,4,39
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MOC,MOÇO DE CONVÉS,3,2
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,POP,PESCADOR PROFISSIONAL,2,2270
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,CDM,CONDUTOR DE MÁQUINAS,5,7
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,4
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,11
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MOM,MOÇO DE MÁQUINAS,3,1
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,58
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,POR,PRATICANTE DE OFICIAL DE RADIOCOMUNICAÇÕES,(null),1
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MCB,MESTRE DE CABOTAGEM,6,7
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MOP,MOTORISTA DE PESCA,1,8
+3,AgCamocim,CE,Agência da Capitania dos Portos em Camocim,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,2
+3,CPCE,CE,Capitania dos Portos do Ceará,ENF,ENFERMEIRO,5,32
+3,CPCE,CE,Capitania dos Portos do Ceará,CTR,CONTRAMESTRE,5,75
+3,CPCE,CE,Capitania dos Portos do Ceará,CZA,COZINHEIRO,2,62
+3,CPCE,CE,Capitania dos Portos do Ceará,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,48
+3,CPCE,CE,Capitania dos Portos do Ceará,MOC,MOÇO DE CONVÉS,3,21
+3,CPCE,CE,Capitania dos Portos do Ceará,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,34
+3,CPCE,CE,Capitania dos Portos do Ceará,CLC,CAPITÃO DE LONGO CURSO,10,49
+3,CPCE,CE,Capitania dos Portos do Ceará,CDE,ESTAGIÁRIO DE CONDUTOR DE MÁQUINAS,(null),1
+3,CPCE,CE,Capitania dos Portos do Ceará,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,8
+3,CPCE,CE,Capitania dos Portos do Ceará,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,11
+3,CPCE,CE,Capitania dos Portos do Ceará,POP,PESCADOR PROFISSIONAL,1,1007
+3,CPCE,CE,Capitania dos Portos do Ceará,PRT,PRÁTICO,(null),10
+3,CPCE,CE,Capitania dos Portos do Ceará,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,110
+3,CPCE,CE,Capitania dos Portos do Ceará,APP,APRENDIZ DE PESCA,1,1
+3,CPCE,CE,Capitania dos Portos do Ceará,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,79
+3,CPCE,CE,Capitania dos Portos do Ceará,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,31
+3,CPCE,CE,Capitania dos Portos do Ceará,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,21
+3,CPCE,CE,Capitania dos Portos do Ceará,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,2
+3,CPCE,CE,Capitania dos Portos do Ceará,CDM,CONDUTOR DE MÁQUINAS,5,65
+3,CPCE,CE,Capitania dos Portos do Ceará,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,89
+3,CPCE,CE,Capitania dos Portos do Ceará,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+3,CPCE,CE,Capitania dos Portos do Ceará,POP,PESCADOR PROFISSIONAL,2,1986
+3,CPCE,CE,Capitania dos Portos do Ceará,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,3
+3,CPCE,CE,Capitania dos Portos do Ceará,MCB,MESTRE DE CABOTAGEM,6,152
+3,CPCE,CE,Capitania dos Portos do Ceará,ELT,ELETRICISTA,5,7
+3,CPCE,CE,Capitania dos Portos do Ceará,MOM,MOÇO DE MÁQUINAS,3,8
+3,CPCE,CE,Capitania dos Portos do Ceará,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,143
+3,CPCE,CE,Capitania dos Portos do Ceará,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,1
+3,CPCE,CE,Capitania dos Portos do Ceará,MNC,MARINHEIRO DE CONVÉS,4,300
+3,CPCE,CE,Capitania dos Portos do Ceará,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,152
+3,CPCE,CE,Capitania dos Portos do Ceará,TAA,TAIFEIRO,2,56
+3,CPCE,CE,Capitania dos Portos do Ceará,PAP,PATRÃO DE PESCA EM ALTO MAR,6,3
+3,CPCE,CE,Capitania dos Portos do Ceará,MOP,MOTORISTA DE PESCA,2,42
+3,CPCE,CE,Capitania dos Portos do Ceará,MNM,MARINHEIRO DE MÁQUINAS,4,128
+3,CPCE,CE,Capitania dos Portos do Ceará,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,141
+3,CPCE,CE,Capitania dos Portos do Ceará,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+3,CPCE,CE,Capitania dos Portos do Ceará,CCB,CAPITÃO DE CABOTAGEM,9,66
+3,CPCE,CE,Capitania dos Portos do Ceará,ASA,AUXILIAR DE SAÚDE,3,3
+3,CPPB,PB,Capitania dos Portos da Paraíba,POP,PESCADOR PROFISSIONAL,1,500
+3,CPPB,PB,Capitania dos Portos da Paraíba,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,17
+3,CPPB,PB,Capitania dos Portos da Paraíba,MNC,MARINHEIRO DE CONVÉS,4,360
+3,CPPB,PB,Capitania dos Portos da Paraíba,MOM,MOÇO DE MÁQUINAS,3,34
+3,CPPB,PB,Capitania dos Portos da Paraíba,CZA,COZINHEIRO,2,394
+3,CPPB,PB,Capitania dos Portos da Paraíba,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,8
+3,CPPB,PB,Capitania dos Portos da Paraíba,MNM,MARINHEIRO DE MÁQUINAS,4,274
+3,CPPB,PB,Capitania dos Portos da Paraíba,MOC,MOÇO DE CONVÉS,3,86
+3,CPPB,PB,Capitania dos Portos da Paraíba,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,4
+3,CPPB,PB,Capitania dos Portos da Paraíba,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,2
+3,CPPB,PB,Capitania dos Portos da Paraíba,ELT,ELETRICISTA,5,24
+3,CPPB,PB,Capitania dos Portos da Paraíba,MOP,MOTORISTA DE PESCA,2,2
+3,CPPB,PB,Capitania dos Portos da Paraíba,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,9
+3,CPPB,PB,Capitania dos Portos da Paraíba,CDM,CONDUTOR DE MÁQUINAS,5,56
+3,CPPB,PB,Capitania dos Portos da Paraíba,POP,PESCADOR PROFISSIONAL,2,1501
+3,CPPB,PB,Capitania dos Portos da Paraíba,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+3,CPPB,PB,Capitania dos Portos da Paraíba,ENF,ENFERMEIRO,5,131
+3,CPPB,PB,Capitania dos Portos da Paraíba,MCB,MESTRE DE CABOTAGEM,6,66
+3,CPPB,PB,Capitania dos Portos da Paraíba,PRT,PRÁTICO,(null),3
+3,CPPB,PB,Capitania dos Portos da Paraíba,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,332
+3,CPPB,PB,Capitania dos Portos da Paraíba,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,25
+3,CPPB,PB,Capitania dos Portos da Paraíba,CCB,CAPITÃO DE CABOTAGEM,9,9
+3,CPPB,PB,Capitania dos Portos da Paraíba,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,2
+3,CPPB,PB,Capitania dos Portos da Paraíba,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,6
+3,CPPB,PB,Capitania dos Portos da Paraíba,CTR,CONTRAMESTRE,5,41
+3,CPPB,PB,Capitania dos Portos da Paraíba,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,134
+3,CPPB,PB,Capitania dos Portos da Paraíba,PAP,PATRÃO DE PESCA EM ALTO MAR,6,4
+3,CPPB,PB,Capitania dos Portos da Paraíba,TAA,TAIFEIRO,2,727
+3,CPPB,PB,Capitania dos Portos da Paraíba,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,9
+3,CPPB,PB,Capitania dos Portos da Paraíba,APP,APRENDIZ DE PESCA,1,2
+3,CPPB,PB,Capitania dos Portos da Paraíba,ASA,AUXILIAR DE SAÚDE,3,2
+3,CPPB,PB,Capitania dos Portos da Paraíba,CLC,CAPITÃO DE LONGO CURSO,10,6
+3,CPPB,PB,Capitania dos Portos da Paraíba,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,5
+3,CPPB,PB,Capitania dos Portos da Paraíba,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,15
+3,CPPB,PB,Capitania dos Portos da Paraíba,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,23
+3,AgPenedo,AL,Agência Fluvial de Penedo,CMF,CONTRAMESTRE FLUVIAL,4,10
+3,AgPenedo,AL,Agência Fluvial de Penedo,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,48
+3,AgPenedo,AL,Agência Fluvial de Penedo,MOP,MOTORISTA DE PESCA,2,4
+3,AgPenedo,AL,Agência Fluvial de Penedo,MCB,MESTRE DE CABOTAGEM,6,2
+3,AgPenedo,AL,Agência Fluvial de Penedo,MOP,MOTORISTA DE PESCA,1,6
+3,AgPenedo,AL,Agência Fluvial de Penedo,POP,PESCADOR PROFISSIONAL,2,112
+3,AgPenedo,AL,Agência Fluvial de Penedo,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,216
+3,AgPenedo,AL,Agência Fluvial de Penedo,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,103
+3,AgPenedo,AL,Agência Fluvial de Penedo,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,133
+3,AgPenedo,AL,Agência Fluvial de Penedo,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,25
+3,AgPenedo,AL,Agência Fluvial de Penedo,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,10
+3,AgPenedo,AL,Agência Fluvial de Penedo,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,8
+3,AgPenedo,AL,Agência Fluvial de Penedo,TAA,TAIFEIRO,2,1
+3,AgPenedo,AL,Agência Fluvial de Penedo,MOM,MOÇO DE MÁQUINAS,3,1
+3,AgPenedo,AL,Agência Fluvial de Penedo,POP,PESCADOR PROFISSIONAL,1,115
+3,AgPenedo,AL,Agência Fluvial de Penedo,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,10
+3,AgPenedo,AL,Agência Fluvial de Penedo,MNC,MARINHEIRO DE CONVÉS,4,8
+3,AgPenedo,AL,Agência Fluvial de Penedo,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,3
+3,AgPenedo,AL,Agência Fluvial de Penedo,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,84
+3,AgPenedo,AL,Agência Fluvial de Penedo,MNM,MARINHEIRO DE MÁQUINAS,4,2
+3,AgPenedo,AL,Agência Fluvial de Penedo,MOC,MOÇO DE CONVÉS,3,3
+3,CPAL,AL,Capitania dos Portos de Alagoas,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,55
+3,CPAL,AL,Capitania dos Portos de Alagoas,CCB,CAPITÃO DE CABOTAGEM,9,9
+3,CPAL,AL,Capitania dos Portos de Alagoas,CLC,CAPITÃO DE LONGO CURSO,10,12
+3,CPAL,AL,Capitania dos Portos de Alagoas,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,3
+3,CPAL,AL,Capitania dos Portos de Alagoas,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+3,CPAL,AL,Capitania dos Portos de Alagoas,ELT,ELETRICISTA,5,4
+3,CPAL,AL,Capitania dos Portos de Alagoas,POP,PESCADOR PROFISSIONAL,1,250
+3,CPAL,AL,Capitania dos Portos de Alagoas,MOM,MOÇO DE MÁQUINAS,3,7
+3,CPAL,AL,Capitania dos Portos de Alagoas,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,7
+3,CPAL,AL,Capitania dos Portos de Alagoas,PRT,PRÁTICO,(null),5
+3,CPAL,AL,Capitania dos Portos de Alagoas,MNM,MARINHEIRO DE MÁQUINAS,4,42
+3,CPAL,AL,Capitania dos Portos de Alagoas,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,476
+3,CPAL,AL,Capitania dos Portos de Alagoas,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,13
+3,CPAL,AL,Capitania dos Portos de Alagoas,MOC,MOÇO DE CONVÉS,3,19
+3,CPAL,AL,Capitania dos Portos de Alagoas,ENF,ENFERMEIRO,5,54
+3,CPAL,AL,Capitania dos Portos de Alagoas,CTR,CONTRAMESTRE,5,12
+3,CPAL,AL,Capitania dos Portos de Alagoas,POP,PESCADOR PROFISSIONAL,2,468
+3,CPAL,AL,Capitania dos Portos de Alagoas,TAA,TAIFEIRO,2,68
+3,CPAL,AL,Capitania dos Portos de Alagoas,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1110
+3,CPAL,AL,Capitania dos Portos de Alagoas,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,2
+3,CPAL,AL,Capitania dos Portos de Alagoas,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+3,CPAL,AL,Capitania dos Portos de Alagoas,ASA,AUXILIAR DE SAÚDE,3,1
+3,CPAL,AL,Capitania dos Portos de Alagoas,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,5
+3,CPAL,AL,Capitania dos Portos de Alagoas,CDM,CONDUTOR DE MÁQUINAS,5,10
+3,CPAL,AL,Capitania dos Portos de Alagoas,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,12
+3,CPAL,AL,Capitania dos Portos de Alagoas,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,16
+3,CPAL,AL,Capitania dos Portos de Alagoas,MOP,MOTORISTA DE PESCA,2,13
+3,CPAL,AL,Capitania dos Portos de Alagoas,MCB,MESTRE DE CABOTAGEM,6,20
+3,CPAL,AL,Capitania dos Portos de Alagoas,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,18
+3,CPAL,AL,Capitania dos Portos de Alagoas,MNC,MARINHEIRO DE CONVÉS,4,120
+3,CPAL,AL,Capitania dos Portos de Alagoas,CZA,COZINHEIRO,2,28
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,ELT,ELETRICISTA,5,5
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MNM,MARINHEIRO DE MÁQUINAS,4,110
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MOP,MOTORISTA DE PESCA,2,2
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,22
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,EAM,Estagiário de Adaptação de Máquinas,(null),2
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,14
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,3
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,CDM,CONDUTOR DE MÁQUINAS,5,112
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,POP,PESCADOR PROFISSIONAL,1,250
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MNC,MARINHEIRO DE CONVÉS,4,118
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MOC,MOÇO DE CONVÉS,3,12
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MOM,MOÇO DE MÁQUINAS,3,15
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,POP,PESCADOR PROFISSIONAL,2,473
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,PPE,PRATICANTE DE PESCADOR PROFISSIONAL ESPECIALIZADO,(null),18
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MOP,MOTORISTA DE PESCA,1,3
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,TAA,TAIFEIRO,2,5
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,15
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,CTR,CONTRAMESTRE,5,8
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MCB,MESTRE DE CABOTAGEM,6,99
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,16
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,CCB,CAPITÃO DE CABOTAGEM,9,1
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,48
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,CZA,COZINHEIRO,2,40
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,7
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,ENF,ENFERMEIRO,5,11
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,122
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,ASA,AUXILIAR DE SAÚDE,3,1
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,5
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,52
+3,AgABranca,RN,Agência da Capitania dos Portos em Areia Branca,PRT,PRÁTICO,(null),3
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MCB,MESTRE DE CABOTAGEM,6,86
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,ENF,ENFERMEIRO,5,29
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,737
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MOP,MOTORISTA DE PESCA,1,15
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,47
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,POP,PESCADOR PROFISSIONAL,2,2527
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,47
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,4
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,ELT,ELETRICISTA,5,4
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,AEM,ALUNO ESTAGIÁRIO DE MÁQUINAS,(null),1
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MOP,MOTORISTA DE PESCA,2,54
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CDM,CONDUTOR DE MÁQUINAS,5,69
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,43
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,26
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,PAP,PATRÃO DE PESCA EM ALTO MAR,6,25
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MNM,MARINHEIRO DE MÁQUINAS,4,89
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,TAA,TAIFEIRO,2,89
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,48
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CZA,COZINHEIRO,2,149
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MNC,MARINHEIRO DE CONVÉS,4,197
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MOC,MOÇO DE CONVÉS,3,67
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MOM,MOÇO DE MÁQUINAS,3,5
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,POP,PESCADOR PROFISSIONAL,1,916
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,PRT,PRÁTICO,(null),6
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,PPE,PRATICANTE DE PESCADOR PROFISSIONAL ESPECIALIZADO,(null),6
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,61
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,10
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CTR,CONTRAMESTRE,5,57
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CLC,CAPITÃO DE LONGO CURSO,10,14
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,6
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,APP,APRENDIZ DE PESCA,1,1
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,32
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,47
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,246
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,30
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,ASA,AUXILIAR DE SAÚDE,3,6
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,CCB,CAPITÃO DE CABOTAGEM,9,15
+3,CPRN,RN,Capitania dos Portos do Rio Grande do Norte,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,52
+3,CPPE,PE,Capitania dos Portos de Pernambuco,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,77
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MOP,MOTORISTA DE PESCA,1,15
+3,CPPE,PE,Capitania dos Portos de Pernambuco,PRT,PRÁTICO,(null),17
+3,CPPE,PE,Capitania dos Portos de Pernambuco,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,7
+3,CPPE,PE,Capitania dos Portos de Pernambuco,POP,PESCADOR PROFISSIONAL,1,409
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CCB,CAPITÃO DE CABOTAGEM,9,23
+3,CPPE,PE,Capitania dos Portos de Pernambuco,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,68
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CZA,COZINHEIRO,2,40
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1311
+3,CPPE,PE,Capitania dos Portos de Pernambuco,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,13
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,15
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MOM,MOÇO DE MÁQUINAS,3,9
+3,CPPE,PE,Capitania dos Portos de Pernambuco,POP,PESCADOR PROFISSIONAL,2,532
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MOP,MOTORISTA DE PESCA,2,4
+3,CPPE,PE,Capitania dos Portos de Pernambuco,ELT,ELETRICISTA,5,4
+3,CPPE,PE,Capitania dos Portos de Pernambuco,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,41
+3,CPPE,PE,Capitania dos Portos de Pernambuco,ASA,AUXILIAR DE SAÚDE,3,2
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MCB,MESTRE DE CABOTAGEM,6,53
+3,CPPE,PE,Capitania dos Portos de Pernambuco,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,32
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CDM,CONDUTOR DE MÁQUINAS,5,38
+3,CPPE,PE,Capitania dos Portos de Pernambuco,ENF,ENFERMEIRO,5,18
+3,CPPE,PE,Capitania dos Portos de Pernambuco,TAA,TAIFEIRO,2,27
+3,CPPE,PE,Capitania dos Portos de Pernambuco,EAM,Estagiário de Adaptação de Máquinas,(null),1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CTR,CONTRAMESTRE,5,27
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,75
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MOC,MOÇO DE CONVÉS,3,24
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MNC,MARINHEIRO DE CONVÉS,4,131
+3,CPPE,PE,Capitania dos Portos de Pernambuco,EAC,Estagiário de Adaptação de Convés,(null),1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MNM,MARINHEIRO DE MÁQUINAS,4,57
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,468
+3,CPPE,PE,Capitania dos Portos de Pernambuco,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,76
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+3,CPPE,PE,Capitania dos Portos de Pernambuco,CLC,CAPITÃO DE LONGO CURSO,10,10
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,60
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MOP,MOTORISTA DE PESCA,2,3
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,152
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,129
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,4
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,1
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,POP,PESCADOR PROFISSIONAL,1,136
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,5
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,TAA,TAIFEIRO,2,1
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,MOP,MOTORISTA DE PESCA,1,6
+4,AgOiapoque,AP,Agencia da Capitania dos Portos no Oiapoque,POP,PESCADOR PROFISSIONAL,2,66
+4,CPAP,AP,Capitania dos Portos do Amapá,PLF,PILOTO FLUVIAL,6,32
+4,CPAP,AP,Capitania dos Portos do Amapá,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,157
+4,CPAP,AP,Capitania dos Portos do Amapá,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,161
+4,CPAP,AP,Capitania dos Portos do Amapá,CDM,CONDUTOR DE MÁQUINAS,5,3
+4,CPAP,AP,Capitania dos Portos do Amapá,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,24
+4,CPAP,AP,Capitania dos Portos do Amapá,PFL,PILOTO FLUVIAL,6,12
+4,CPAP,AP,Capitania dos Portos do Amapá,MOP,MOTORISTA DE PESCA,2,2
+4,CPAP,AP,Capitania dos Portos do Amapá,MCB,MESTRE DE CABOTAGEM,6,13
+4,CPAP,AP,Capitania dos Portos do Amapá,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,1462
+4,CPAP,AP,Capitania dos Portos do Amapá,CTR,CONTRAMESTRE,5,1
+4,CPAP,AP,Capitania dos Portos do Amapá,PRT,PRÁTICO,(null),2
+4,CPAP,AP,Capitania dos Portos do Amapá,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+4,CPAP,AP,Capitania dos Portos do Amapá,POP,PESCADOR PROFISSIONAL,1,204
+4,CPAP,AP,Capitania dos Portos do Amapá,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,1
+4,CPAP,AP,Capitania dos Portos do Amapá,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,2
+4,CPAP,AP,Capitania dos Portos do Amapá,MOM,MOÇO DE MÁQUINAS,3,8
+4,CPAP,AP,Capitania dos Portos do Amapá,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,241
+4,CPAP,AP,Capitania dos Portos do Amapá,ASA,AUXILIAR DE SAÚDE,3,10
+4,CPAP,AP,Capitania dos Portos do Amapá,CFL,CAPITÃO FLUVIAL,7,1
+4,CPAP,AP,Capitania dos Portos do Amapá,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,66
+4,CPAP,AP,Capitania dos Portos do Amapá,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,2
+4,CPAP,AP,Capitania dos Portos do Amapá,CLC,CAPITÃO DE LONGO CURSO,10,1
+4,CPAP,AP,Capitania dos Portos do Amapá,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,2
+4,CPAP,AP,Capitania dos Portos do Amapá,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,131
+4,CPAP,AP,Capitania dos Portos do Amapá,MNM,MARINHEIRO DE MÁQUINAS,4,17
+4,CPAP,AP,Capitania dos Portos do Amapá,MOC,MOÇO DE CONVÉS,3,12
+4,CPAP,AP,Capitania dos Portos do Amapá,TAA,TAIFEIRO,2,2
+4,CPAP,AP,Capitania dos Portos do Amapá,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,2
+4,CPAP,AP,Capitania dos Portos do Amapá,CMF,CONTRAMESTRE FLUVIAL,4,181
+4,CPAP,AP,Capitania dos Portos do Amapá,ENF,ENFERMEIRO,5,57
+4,CPAP,AP,Capitania dos Portos do Amapá,MFL,MESTRE FLUVIAL,5,21
+4,CPAP,AP,Capitania dos Portos do Amapá,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,393
+4,CPAP,AP,Capitania dos Portos do Amapá,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1808
+4,CPAP,AP,Capitania dos Portos do Amapá,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+4,CPAP,AP,Capitania dos Portos do Amapá,CZA,COZINHEIRO,2,76
+4,CPAP,AP,Capitania dos Portos do Amapá,MNC,MARINHEIRO DE CONVÉS,4,59
+4,CPAP,AP,Capitania dos Portos do Amapá,POP,PESCADOR PROFISSIONAL,2,311
+4,CFS,PA,Capitania Fluvial de Santarém,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,28
+4,CFS,PA,Capitania Fluvial de Santarém,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,322
+4,CFS,PA,Capitania Fluvial de Santarém,CDM,CONDUTOR DE MÁQUINAS,5,13
+4,CFS,PA,Capitania Fluvial de Santarém,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+4,CFS,PA,Capitania Fluvial de Santarém,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,3
+4,CFS,PA,Capitania Fluvial de Santarém,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,615
+4,CFS,PA,Capitania Fluvial de Santarém,PLF,PILOTO FLUVIAL,6,200
+4,CFS,PA,Capitania Fluvial de Santarém,POP,PESCADOR PROFISSIONAL,1,27
+4,CFS,PA,Capitania Fluvial de Santarém,MFL,MESTRE FLUVIAL,5,46
+4,CFS,PA,Capitania Fluvial de Santarém,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,445
+4,CFS,PA,Capitania Fluvial de Santarém,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,899
+4,CFS,PA,Capitania Fluvial de Santarém,CMF,CONTRAMESTRE FLUVIAL,4,589
+4,CFS,PA,Capitania Fluvial de Santarém,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,5
+4,CFS,PA,Capitania Fluvial de Santarém,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,3
+4,CFS,PA,Capitania Fluvial de Santarém,POP,PESCADOR PROFISSIONAL,2,34
+4,CFS,PA,Capitania Fluvial de Santarém,MNM,MARINHEIRO DE MÁQUINAS,4,14
+4,CFS,PA,Capitania Fluvial de Santarém,MOC,MOÇO DE CONVÉS,3,4
+4,CFS,PA,Capitania Fluvial de Santarém,CTR,CONTRAMESTRE,5,2
+4,CFS,PA,Capitania Fluvial de Santarém,CZA,COZINHEIRO,2,242
+4,CFS,PA,Capitania Fluvial de Santarém,MCB,MESTRE DE CABOTAGEM,6,6
+4,CFS,PA,Capitania Fluvial de Santarém,MOP,MOTORISTA DE PESCA,1,2
+4,CFS,PA,Capitania Fluvial de Santarém,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+4,CFS,PA,Capitania Fluvial de Santarém,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,80
+4,CFS,PA,Capitania Fluvial de Santarém,SUF,SUPERVISOR MAQUINISTA - MOTORISTA FLUVIAL,7,1
+4,CFS,PA,Capitania Fluvial de Santarém,ASA,AUXILIAR DE SAÚDE,3,33
+4,CFS,PA,Capitania Fluvial de Santarém,CCB,CAPITÃO DE CABOTAGEM,9,1
+4,CFS,PA,Capitania Fluvial de Santarém,CFL,CAPITÃO FLUVIAL,7,32
+4,CFS,PA,Capitania Fluvial de Santarém,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,133
+4,CFS,PA,Capitania Fluvial de Santarém,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,166
+4,CFS,PA,Capitania Fluvial de Santarém,PFL,PILOTO FLUVIAL,6,57
+4,CFS,PA,Capitania Fluvial de Santarém,MOP,MOTORISTA DE PESCA,2,10
+4,CFS,PA,Capitania Fluvial de Santarém,ENF,ENFERMEIRO,5,91
+4,CFS,PA,Capitania Fluvial de Santarém,MNC,MARINHEIRO DE CONVÉS,4,5
+4,CFS,PA,Capitania Fluvial de Santarém,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1594
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MOC,MOÇO DE CONVÉS,3,2
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,POP,PESCADOR PROFISSIONAL,2,99
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,794
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,1
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,27
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,12
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,34
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MOP,MOTORISTA DE PESCA,2,6
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,765
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,49
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,86
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,CMF,CONTRAMESTRE FLUVIAL,4,4
+4,AgImperatriz,MA,Agência Fluvial de Imperatriz,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,6
+4,CPMA,MA,Capitania dos Portos do Maranhão,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,30
+4,CPMA,MA,Capitania dos Portos do Maranhão,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,12
+4,CPMA,MA,Capitania dos Portos do Maranhão,ASA,AUXILIAR DE SAÚDE,3,2
+4,CPMA,MA,Capitania dos Portos do Maranhão,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,990
+4,CPMA,MA,Capitania dos Portos do Maranhão,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,38
+4,CPMA,MA,Capitania dos Portos do Maranhão,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,9
+4,CPMA,MA,Capitania dos Portos do Maranhão,CTR,CONTRAMESTRE,5,21
+4,CPMA,MA,Capitania dos Portos do Maranhão,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),61
+4,CPMA,MA,Capitania dos Portos do Maranhão,CMF,CONTRAMESTRE FLUVIAL,4,1
+4,CPMA,MA,Capitania dos Portos do Maranhão,ENF,ENFERMEIRO,5,10
+4,CPMA,MA,Capitania dos Portos do Maranhão,MOC,MOÇO DE CONVÉS,3,99
+4,CPMA,MA,Capitania dos Portos do Maranhão,TAA,TAIFEIRO,2,9
+4,CPMA,MA,Capitania dos Portos do Maranhão,POP,PESCADOR PROFISSIONAL,2,204
+4,CPMA,MA,Capitania dos Portos do Maranhão,PRT,PRÁTICO,(null),34
+4,CPMA,MA,Capitania dos Portos do Maranhão,MOP,MOTORISTA DE PESCA,1,1
+4,CPMA,MA,Capitania dos Portos do Maranhão,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,2
+4,CPMA,MA,Capitania dos Portos do Maranhão,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,1
+4,CPMA,MA,Capitania dos Portos do Maranhão,CZA,COZINHEIRO,2,18
+4,CPMA,MA,Capitania dos Portos do Maranhão,ELT,ELETRICISTA,5,7
+4,CPMA,MA,Capitania dos Portos do Maranhão,CCB,CAPITÃO DE CABOTAGEM,9,4
+4,CPMA,MA,Capitania dos Portos do Maranhão,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,8
+4,CPMA,MA,Capitania dos Portos do Maranhão,POP,PESCADOR PROFISSIONAL,1,532
+4,CPMA,MA,Capitania dos Portos do Maranhão,MOM,MOÇO DE MÁQUINAS,3,61
+4,CPMA,MA,Capitania dos Portos do Maranhão,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,9
+4,CPMA,MA,Capitania dos Portos do Maranhão,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,70
+4,CPMA,MA,Capitania dos Portos do Maranhão,MNM,MARINHEIRO DE MÁQUINAS,4,163
+4,CPMA,MA,Capitania dos Portos do Maranhão,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,664
+4,CPMA,MA,Capitania dos Portos do Maranhão,CLC,CAPITÃO DE LONGO CURSO,10,9
+4,CPMA,MA,Capitania dos Portos do Maranhão,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,4
+4,CPMA,MA,Capitania dos Portos do Maranhão,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,13
+4,CPMA,MA,Capitania dos Portos do Maranhão,MCB,MESTRE DE CABOTAGEM,6,142
+4,CPMA,MA,Capitania dos Portos do Maranhão,CDM,CONDUTOR DE MÁQUINAS,5,79
+4,CPMA,MA,Capitania dos Portos do Maranhão,MOP,MOTORISTA DE PESCA,2,11
+4,CPMA,MA,Capitania dos Portos do Maranhão,MNC,MARINHEIRO DE CONVÉS,4,423
+4,CPMA,MA,Capitania dos Portos do Maranhão,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,88
+4,CPMA,MA,Capitania dos Portos do Maranhão,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,10
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CFL,CAPITÃO FLUVIAL,7,60
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,39
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,68
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,352
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,ASA,AUXILIAR DE SAÚDE,3,14
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MOP,MOTORISTA DE PESCA,2,137
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MNM,MARINHEIRO DE MÁQUINAS,4,209
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MOM,MOÇO DE MÁQUINAS,3,50
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MOC,MOÇO DE CONVÉS,3,48
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MNC,MARINHEIRO DE CONVÉS,4,281
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,2481
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CZA,COZINHEIRO,2,377
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,POP,PESCADOR PROFISSIONAL,1,1766
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,91
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,5
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PRP,PRATICANTE DE PRÁTICO,(null),5
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,77
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CLC,CAPITÃO DE LONGO CURSO,10,105
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CTR,CONTRAMESTRE,5,55
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,759
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,AEM,ALUNO ESTAGIÁRIO DE MÁQUINAS,(null),8
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,APP,APRENDIZ DE PESCA,1,3
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PLF,PILOTO FLUVIAL,6,262
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,522
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,15
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,699
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,10
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,114
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,195
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,APM,APRENDIZ DE MOTORISTA,1,2
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CCB,CAPITÃO DE CABOTAGEM,9,105
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CDM,CONDUTOR DE MÁQUINAS,5,166
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,TAA,TAIFEIRO,2,36
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,POP,PESCADOR PROFISSIONAL,2,836
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PAP,PATRÃO DE PESCA EM ALTO MAR,6,63
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PCF,Praticante de Capitão Fluvial,(null),1
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PMM,PRATICANTE DE MOÇO DE MÁQUINAS,(null),2
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,236
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CMF,CONTRAMESTRE FLUVIAL,4,460
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,157
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,3127
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,197
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,7
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PRT,PRÁTICO,(null),132
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,SUF,SUPERVISOR MAQUINISTA - MOTORISTA FLUVIAL,7,17
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,ELT,ELETRICISTA,5,28
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,123
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,CDE,ESTAGIÁRIO DE CONDUTOR DE MÁQUINAS,(null),2
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MFL,MESTRE FLUVIAL,5,86
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MCB,MESTRE DE CABOTAGEM,6,186
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,ENF,ENFERMEIRO,5,72
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,620
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PFL,PILOTO FLUVIAL,6,14
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),8
+4,CPAOR,PA,Capitania dos Portos da Amazônia Oriental,MOP,MOTORISTA DE PESCA,1,118
+4,CPPI,PI,Capitania dos Portos do Piauí,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,2
+4,CPPI,PI,Capitania dos Portos do Piauí,PAP,PATRÃO DE PESCA EM ALTO MAR,6,3
+4,CPPI,PI,Capitania dos Portos do Piauí,TAA,TAIFEIRO,2,43
+4,CPPI,PI,Capitania dos Portos do Piauí,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,3
+4,CPPI,PI,Capitania dos Portos do Piauí,CTR,CONTRAMESTRE,5,9
+4,CPPI,PI,Capitania dos Portos do Piauí,CLC,CAPITÃO DE LONGO CURSO,10,2
+4,CPPI,PI,Capitania dos Portos do Piauí,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,5
+4,CPPI,PI,Capitania dos Portos do Piauí,MOM,MOÇO DE MÁQUINAS,3,14
+4,CPPI,PI,Capitania dos Portos do Piauí,POP,PESCADOR PROFISSIONAL,1,161
+4,CPPI,PI,Capitania dos Portos do Piauí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,270
+4,CPPI,PI,Capitania dos Portos do Piauí,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+4,CPPI,PI,Capitania dos Portos do Piauí,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+4,CPPI,PI,Capitania dos Portos do Piauí,MOP,MOTORISTA DE PESCA,2,17
+4,CPPI,PI,Capitania dos Portos do Piauí,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,22
+4,CPPI,PI,Capitania dos Portos do Piauí,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,1
+4,CPPI,PI,Capitania dos Portos do Piauí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,144
+4,CPPI,PI,Capitania dos Portos do Piauí,ENF,ENFERMEIRO,5,8
+4,CPPI,PI,Capitania dos Portos do Piauí,CDM,CONDUTOR DE MÁQUINAS,5,15
+4,CPPI,PI,Capitania dos Portos do Piauí,MCB,MESTRE DE CABOTAGEM,6,35
+4,CPPI,PI,Capitania dos Portos do Piauí,MOP,MOTORISTA DE PESCA,1,3
+4,CPPI,PI,Capitania dos Portos do Piauí,POP,PESCADOR PROFISSIONAL,2,206
+4,CPPI,PI,Capitania dos Portos do Piauí,ELT,ELETRICISTA,5,2
+4,CPPI,PI,Capitania dos Portos do Piauí,MNC,MARINHEIRO DE CONVÉS,4,187
+4,CPPI,PI,Capitania dos Portos do Piauí,MOC,MOÇO DE CONVÉS,3,20
+4,CPPI,PI,Capitania dos Portos do Piauí,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,4
+4,CPPI,PI,Capitania dos Portos do Piauí,MNM,MARINHEIRO DE MÁQUINAS,4,126
+4,CPPI,PI,Capitania dos Portos do Piauí,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),30
+4,CPPI,PI,Capitania dos Portos do Piauí,CZA,COZINHEIRO,2,8
+4,CPPI,PI,Capitania dos Portos do Piauí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,104
+4,CPPI,PI,Capitania dos Portos do Piauí,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+4,CPPI,PI,Capitania dos Portos do Piauí,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,9
+4,CPPI,PI,Capitania dos Portos do Piauí,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,6
+4,CPPI,PI,Capitania dos Portos do Piauí,CCB,CAPITÃO DE CABOTAGEM,9,3
+4,CPPI,PI,Capitania dos Portos do Piauí,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,7
+4,CPPI,PI,Capitania dos Portos do Piauí,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,15
+4,CPPI,PI,Capitania dos Portos do Piauí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,278
+4,CPPI,PI,Capitania dos Portos do Piauí,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,7
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CCB,CAPITÃO DE CABOTAGEM,9,9
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CDM,CONDUTOR DE MÁQUINAS,5,25
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,45
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,119
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,117
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,PON,PRATICANTE DE OFICIAL DE NÁUTICA,(null),2
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,PLF,PILOTO FLUVIAL,6,104
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,19
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,41
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MCB,MESTRE DE CABOTAGEM,6,18
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,PFL,PILOTO FLUVIAL,6,6
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MNC,MARINHEIRO DE CONVÉS,4,13
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,POP,PESCADOR PROFISSIONAL,2,125
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,6
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,ELT,ELETRICISTA,5,1
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,23
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,127
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,5
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,21
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,13
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,13
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CMF,CONTRAMESTRE FLUVIAL,4,305
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CZA,COZINHEIRO,2,47
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MFL,MESTRE FLUVIAL,5,30
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MNM,MARINHEIRO DE MÁQUINAS,4,6
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MOC,MOÇO DE CONVÉS,3,3
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,ASA,AUXILIAR DE SAÚDE,3,1
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CFL,CAPITÃO FLUVIAL,7,2
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CLC,CAPITÃO DE LONGO CURSO,10,3
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,MOM,MOÇO DE MÁQUINAS,3,1
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,POP,PESCADOR PROFISSIONAL,1,76
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,CTR,CONTRAMESTRE,5,4
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,ENF,ENFERMEIRO,5,20
+5,CFPA,RS,Capitania Fluvial de Porto Alegre,TAA,TAIFEIRO,2,4
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,POP,PESCADOR PROFISSIONAL,1,337
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MOM,MOÇO DE MÁQUINAS,3,3
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,13
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,33
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,12
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,3
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MOC,MOÇO DE CONVÉS,3,23
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MNM,MARINHEIRO DE MÁQUINAS,4,12
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,CCB,CAPITÃO DE CABOTAGEM,9,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,CLC,CAPITÃO DE LONGO CURSO,10,2
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MNC,MARINHEIRO DE CONVÉS,4,15
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MOP,MOTORISTA DE PESCA,1,2
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,POP,PESCADOR PROFISSIONAL,2,204
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MCB,MESTRE DE CABOTAGEM,6,5
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,ENF,ENFERMEIRO,5,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,117
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,PLF,PILOTO FLUVIAL,6,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,MOP,MOTORISTA DE PESCA,2,4
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,ELT,ELETRICISTA,5,1
+5,AgTramandaí,RS,Agência da Capitania dos Portos em Tramandaí,CDM,CONDUTOR DE MÁQUINAS,5,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MOM,MOÇO DE MÁQUINAS,3,10
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MFL,MESTRE FLUVIAL,5,10
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,149
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,PRT,PRÁTICO,(null),33
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,43
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,4
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,APP,APRENDIZ DE PESCA,2,18
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CMF,CONTRAMESTRE FLUVIAL,4,16
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,119
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,POP,PESCADOR PROFISSIONAL,2,2221
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,TAA,TAIFEIRO,2,2
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MOC,MOÇO DE CONVÉS,3,50
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MOP,MOTORISTA DE PESCA,1,43
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,ENF,ENFERMEIRO,5,8
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,ELT,ELETRICISTA,5,2
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,4
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,ASA,AUXILIAR DE SAÚDE,3,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MOP,MOTORISTA DE PESCA,2,109
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,PAP,PATRÃO DE PESCA EM ALTO MAR,6,30
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,2
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,12
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MCB,MESTRE DE CABOTAGEM,6,118
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,20
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CTR,CONTRAMESTRE,5,43
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,23
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,33
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,12
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,69
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CFL,CAPITÃO FLUVIAL,7,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,20
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,6
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,2
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,POP,PESCADOR PROFISSIONAL,1,360
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,PFL,PILOTO FLUVIAL,6,2
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CDM,CONDUTOR DE MÁQUINAS,5,74
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MNC,MARINHEIRO DE CONVÉS,4,174
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,PLF,PILOTO FLUVIAL,6,37
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,2
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,21
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CCB,CAPITÃO DE CABOTAGEM,9,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,12
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,CZA,COZINHEIRO,2,63
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MNM,MARINHEIRO DE MÁQUINAS,4,50
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+5,CPRS,RS,Capitania dos Portos do Rio Grande do Sul,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,68
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,133
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,POP,PESCADOR PROFISSIONAL,1,310
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,3
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,6
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,3
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,PLF,PILOTO FLUVIAL,6,1
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,POP,PESCADOR PROFISSIONAL,2,220
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MNC,MARINHEIRO DE CONVÉS,4,1
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,CMF,CONTRAMESTRE FLUVIAL,4,20
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,26
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MOC,MOÇO DE CONVÉS,3,1
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,224
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+5,DelUruguaiana,RS,Delegacia Fluvial de Uruguaiana,APP,APRENDIZ DE PESCA,1,3
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CCB,CAPITÃO DE CABOTAGEM,9,5
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,14
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,144
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,36
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,POP,PESCADOR PROFISSIONAL,1,634
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,71
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,8
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,APP,APRENDIZ DE PESCA,1,2
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,7
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CLC,CAPITÃO DE LONGO CURSO,10,5
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,86
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CTR,CONTRAMESTRE,5,40
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MNM,MARINHEIRO DE MÁQUINAS,4,30
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,4
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MOC,MOÇO DE CONVÉS,3,73
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MOP,MOTORISTA DE PESCA,2,50
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,PAP,PATRÃO DE PESCA EM ALTO MAR,6,35
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,TAA,TAIFEIRO,2,5
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,2
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CZA,COZINHEIRO,2,11
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,11
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,11
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,1
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,74
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,93
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,2
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,566
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MNC,MARINHEIRO DE CONVÉS,4,113
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MOM,MOÇO DE MÁQUINAS,3,9
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,7
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CDM,CONDUTOR DE MÁQUINAS,5,14
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,ELT,ELETRICISTA,5,1
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,1
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,101
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,CMF,CONTRAMESTRE FLUVIAL,4,2
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,26
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,ENF,ENFERMEIRO,5,25
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MOP,MOTORISTA DE PESCA,1,4
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,MCB,MESTRE DE CABOTAGEM,6,29
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,POP,PESCADOR PROFISSIONAL,2,971
+5,CPSC,SC,Capitania dos Portos de Santa Catarina,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),4
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,49
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CDM,CONDUTOR DE MÁQUINAS,5,86
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CMF,CONTRAMESTRE FLUVIAL,4,3
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,26
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,270
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,ENF,ENFERMEIRO,5,13
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,359
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,116
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CZA,COZINHEIRO,2,125
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,31
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CCB,CAPITÃO DE CABOTAGEM,9,10
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MNM,MARINHEIRO DE MÁQUINAS,4,135
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,27
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,2
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,1
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CTR,CONTRAMESTRE,5,43
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CLC,CAPITÃO DE LONGO CURSO,10,14
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,33
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,5
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,TAA,TAIFEIRO,2,56
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,POP,PESCADOR PROFISSIONAL,2,2032
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PPE,PRATICANTE DE PESCADOR PROFISSIONAL ESPECIALIZADO,(null),7
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),2
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MOC,MOÇO DE CONVÉS,3,73
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MOP,MOTORISTA DE PESCA,1,16
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PAP,PATRÃO DE PESCA EM ALTO MAR,6,176
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,11
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PRT,PRÁTICO,(null),7
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PLF,PILOTO FLUVIAL,6,1
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,POP,PESCADOR PROFISSIONAL,1,177
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,7
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MOM,MOÇO DE MÁQUINAS,3,13
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,132
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,13
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,32
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,452
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,14
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,36
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MOP,MOTORISTA DE PESCA,2,286
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MCB,MESTRE DE CABOTAGEM,6,181
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,2
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,MNC,MARINHEIRO DE CONVÉS,4,347
+5,DelItajai,SC,Delegacia da Capitania dos Portos em Itajaí,ELT,ELETRICISTA,5,4
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CZA,COZINHEIRO,2,18
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MOM,MOÇO DE MÁQUINAS,3,2
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,144
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MFL,MESTRE FLUVIAL,5,1
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,PRT,PRÁTICO,(null),6
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MOC,MOÇO DE CONVÉS,3,22
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,POP,PESCADOR PROFISSIONAL,2,1046
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,TAA,TAIFEIRO,2,9
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,14
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,46
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,40
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,2
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,6
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MNM,MARINHEIRO DE MÁQUINAS,4,51
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,PLF,PILOTO FLUVIAL,6,1
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,28
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,2
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,15
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,ELT,ELETRICISTA,5,4
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,POP,PESCADOR PROFISSIONAL,1,202
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,ENF,ENFERMEIRO,5,6
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,5
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MNC,MARINHEIRO DE CONVÉS,4,130
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CDM,CONDUTOR DE MÁQUINAS,5,15
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CTR,CONTRAMESTRE,5,7
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,12
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CLC,CAPITÃO DE LONGO CURSO,10,1
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,AEM,ALUNO ESTAGIÁRIO DE MÁQUINAS,(null),1
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,4
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,4
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,CCB,CAPITÃO DE CABOTAGEM,9,2
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MCB,MESTRE DE CABOTAGEM,6,34
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,MOP,MOTORISTA DE PESCA,2,27
+5,DelLaguna,SC,Delegacia da Capitania dos Portos em Laguna,PAP,PATRÃO DE PESCA EM ALTO MAR,6,2
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,POP,PESCADOR PROFISSIONAL,1,371
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MOM,MOÇO DE MÁQUINAS,3,11
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,17
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,PRT,PRÁTICO,(null),13
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,3
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,3
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CCB,CAPITÃO DE CABOTAGEM,9,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CTR,CONTRAMESTRE,5,19
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CLC,CAPITÃO DE LONGO CURSO,10,10
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,9
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CMF,CONTRAMESTRE FLUVIAL,4,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,3
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,ENF,ENFERMEIRO,5,9
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MOP,MOTORISTA DE PESCA,1,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MOC,MOÇO DE CONVÉS,3,69
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,28
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,POP,PESCADOR PROFISSIONAL,2,622
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,TAA,TAIFEIRO,2,17
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,8
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,2
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,73
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,ELT,ELETRICISTA,5,4
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MNM,MARINHEIRO DE MÁQUINAS,4,66
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,36
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,4
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CZA,COZINHEIRO,2,24
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,321
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,CDM,CONDUTOR DE MÁQUINAS,5,29
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MNC,MARINHEIRO DE CONVÉS,4,146
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,3
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MCB,MESTRE DE CABOTAGEM,6,58
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,MOP,MOTORISTA DE PESCA,2,5
+5,DelSFSul,SC,Delegacia da Capitania dos Portos em São Francisco,APP,APRENDIZ DE PESCA,1,2
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,PLF,PILOTO FLUVIAL,6,2
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,468
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,POP,PESCADOR PROFISSIONAL,1,1
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,POP,PESCADOR PROFISSIONAL,2,48
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,CMF,CONTRAMESTRE FLUVIAL,4,19
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,11
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,5
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,48
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,48
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,54
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,CZA,COZINHEIRO,2,7
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,213
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,11
+6,AgPMurtinho,MS,Agência Fluvial de Porto Murtinho,TAA,TAIFEIRO,2,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,POP,PESCADOR PROFISSIONAL,1,37
+6,CFPN,MS,Capitania Fluvial do Pantanal,CFL,CAPITÃO FLUVIAL,7,25
+6,CFPN,MS,Capitania Fluvial do Pantanal,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,581
+6,CFPN,MS,Capitania Fluvial do Pantanal,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,56
+6,CFPN,MS,Capitania Fluvial do Pantanal,CTR,CONTRAMESTRE,5,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,MNC,MARINHEIRO DE CONVÉS,4,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,PLF,PILOTO FLUVIAL,6,74
+6,CFPN,MS,Capitania Fluvial do Pantanal,CDM,CONDUTOR DE MÁQUINAS,5,8
+6,CFPN,MS,Capitania Fluvial do Pantanal,MOP,MOTORISTA DE PESCA,2,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,MCB,MESTRE DE CABOTAGEM,6,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,90
+6,CFPN,MS,Capitania Fluvial do Pantanal,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,53
+6,CFPN,MS,Capitania Fluvial do Pantanal,CZA,COZINHEIRO,2,69
+6,CFPN,MS,Capitania Fluvial do Pantanal,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1455
+6,CFPN,MS,Capitania Fluvial do Pantanal,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,10
+6,CFPN,MS,Capitania Fluvial do Pantanal,CMF,CONTRAMESTRE FLUVIAL,4,134
+6,CFPN,MS,Capitania Fluvial do Pantanal,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,217
+6,CFPN,MS,Capitania Fluvial do Pantanal,MFL,MESTRE FLUVIAL,5,19
+6,CFPN,MS,Capitania Fluvial do Pantanal,POP,PESCADOR PROFISSIONAL,2,155
+6,CFPN,MS,Capitania Fluvial do Pantanal,TAA,TAIFEIRO,2,4
+6,CFPN,MS,Capitania Fluvial do Pantanal,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,2
+6,CFPN,MS,Capitania Fluvial do Pantanal,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,ELT,ELETRICISTA,5,1
+6,CFPN,MS,Capitania Fluvial do Pantanal,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,6
+6,CFPN,MS,Capitania Fluvial do Pantanal,MNM,MARINHEIRO DE MÁQUINAS,4,1
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,11
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,55
+6,AgCáceres,MT,Agência Fluvial de Cáceres,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,2
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,84
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,48
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,1
+6,AgCáceres,MT,Agência Fluvial de Cáceres,ASA,AUXILIAR DE SAÚDE,3,2
+6,AgCáceres,MT,Agência Fluvial de Cáceres,CMF,CONTRAMESTRE FLUVIAL,4,39
+6,AgCáceres,MT,Agência Fluvial de Cáceres,TAA,TAIFEIRO,2,2
+6,AgCáceres,MT,Agência Fluvial de Cáceres,CDM,CONDUTOR DE MÁQUINAS,5,1
+6,AgCáceres,MT,Agência Fluvial de Cáceres,CFL,CAPITÃO FLUVIAL,7,2
+6,AgCáceres,MT,Agência Fluvial de Cáceres,CZA,COZINHEIRO,2,30
+6,AgCáceres,MT,Agência Fluvial de Cáceres,POP,PESCADOR PROFISSIONAL,1,135
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MFL,MESTRE FLUVIAL,5,4
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,325
+6,AgCáceres,MT,Agência Fluvial de Cáceres,POP,PESCADOR PROFISSIONAL,2,89
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,7
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MNM,MARINHEIRO DE MÁQUINAS,4,1
+6,AgCáceres,MT,Agência Fluvial de Cáceres,PLF,PILOTO FLUVIAL,6,7
+6,AgCáceres,MT,Agência Fluvial de Cáceres,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,36
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,38
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,3
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,433
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,CMF,CONTRAMESTRE FLUVIAL,4,2
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,POP,PESCADOR PROFISSIONAL,1,28
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,8
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,41
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,369
+6,AgSFAraguaia,MT,Agência Fluvial de São Felix do Araguaia,POP,PESCADOR PROFISSIONAL,2,15
+6,AgSinop,MT,Agência Fluvial de Sinop,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,2
+6,AgSinop,MT,Agência Fluvial de Sinop,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,58
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,4
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,70
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,POP,PESCADOR PROFISSIONAL,1,30
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,POP,PESCADOR PROFISSIONAL,2,134
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,TAA,TAIFEIRO,2,1
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,1
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,6
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,1
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,10
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,2
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,101
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,731
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,798
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,CMF,CONTRAMESTRE FLUVIAL,4,8
+6,CFMT,MT,Capitania Fluvial de Mato Grosso,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,76
+7,CFB,DF,Capitania Fluvial de Brasília,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,384
+7,CFB,DF,Capitania Fluvial de Brasília,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,10
+7,CFB,DF,Capitania Fluvial de Brasília,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+7,CFB,DF,Capitania Fluvial de Brasília,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,48
+7,CFB,DF,Capitania Fluvial de Brasília,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,5
+7,CFB,DF,Capitania Fluvial de Brasília,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,2
+7,CFB,DF,Capitania Fluvial de Brasília,MNM,MARINHEIRO DE MÁQUINAS,4,1
+7,CFB,DF,Capitania Fluvial de Brasília,MCB,MESTRE DE CABOTAGEM,6,2
+7,CFB,DF,Capitania Fluvial de Brasília,MNC,MARINHEIRO DE CONVÉS,4,5
+7,CFB,DF,Capitania Fluvial de Brasília,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,10
+7,CFB,DF,Capitania Fluvial de Brasília,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,420
+7,CFB,DF,Capitania Fluvial de Brasília,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+7,CFB,DF,Capitania Fluvial de Brasília,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+7,CFB,DF,Capitania Fluvial de Brasília,MOC,MOÇO DE CONVÉS,3,9
+7,CFB,DF,Capitania Fluvial de Brasília,POP,PESCADOR PROFISSIONAL,2,9
+7,CFB,DF,Capitania Fluvial de Brasília,TAA,TAIFEIRO,2,1
+7,CFB,DF,Capitania Fluvial de Brasília,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,154
+7,CFB,DF,Capitania Fluvial de Brasília,APP,APRENDIZ DE PESCA,1,3
+7,CFB,DF,Capitania Fluvial de Brasília,CLC,CAPITÃO DE LONGO CURSO,10,7
+7,CFB,DF,Capitania Fluvial de Brasília,CTR,CONTRAMESTRE,5,1
+7,CFB,DF,Capitania Fluvial de Brasília,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,3
+7,CFB,DF,Capitania Fluvial de Brasília,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,9
+7,CFB,DF,Capitania Fluvial de Brasília,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,6
+7,CFB,DF,Capitania Fluvial de Brasília,CCB,CAPITÃO DE CABOTAGEM,9,6
+7,CFB,DF,Capitania Fluvial de Brasília,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,6
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,4
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,POP,PESCADOR PROFISSIONAL,1,6
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,3
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1448
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,POP,PESCADOR PROFISSIONAL,2,59
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,CTR,CONTRAMESTRE,5,1
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,4
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,2
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MNC,MARINHEIRO DE CONVÉS,4,1
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,276
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,2
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,1038
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,CMF,CONTRAMESTRE FLUVIAL,4,25
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,76
+7,CFAT,TO,Capitania Fluvial do Araguaia-Tocantins,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+7,CFGO,GO,Capitania Fluvial de Goiás,APP,APRENDIZ DE PESCA,1,2
+7,CFGO,GO,Capitania Fluvial de Goiás,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,39
+7,CFGO,GO,Capitania Fluvial de Goiás,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,5
+7,CFGO,GO,Capitania Fluvial de Goiás,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,1
+7,CFGO,GO,Capitania Fluvial de Goiás,POP,PESCADOR PROFISSIONAL,2,2
+7,CFGO,GO,Capitania Fluvial de Goiás,MNC,MARINHEIRO DE CONVÉS,4,1
+7,CFGO,GO,Capitania Fluvial de Goiás,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,2
+7,CFGO,GO,Capitania Fluvial de Goiás,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,175
+7,CFGO,GO,Capitania Fluvial de Goiás,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,3
+7,CFGO,GO,Capitania Fluvial de Goiás,CMF,CONTRAMESTRE FLUVIAL,4,1
+7,CFGO,GO,Capitania Fluvial de Goiás,ENF,ENFERMEIRO,5,1
+7,CFGO,GO,Capitania Fluvial de Goiás,MOC,MOÇO DE CONVÉS,3,1
+7,CFGO,GO,Capitania Fluvial de Goiás,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,1
+7,CFGO,GO,Capitania Fluvial de Goiás,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,154
+7,CFGO,GO,Capitania Fluvial de Goiás,CCB,CAPITÃO DE CABOTAGEM,9,4
+7,CFGO,GO,Capitania Fluvial de Goiás,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+7,CFGO,GO,Capitania Fluvial de Goiás,CLC,CAPITÃO DE LONGO CURSO,10,2
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CTR,CONTRAMESTRE,5,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CZA,COZINHEIRO,2,13
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,194
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MOC,MOÇO DE CONVÉS,3,2
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CLC,CAPITÃO DE LONGO CURSO,10,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,EAM,Estagiário de Adaptação de Máquinas,(null),1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MNC,MARINHEIRO DE CONVÉS,4,3
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,5
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,3
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,POP,PESCADOR PROFISSIONAL,1,38
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,349
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MFL,MESTRE FLUVIAL,5,7
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,POP,PESCADOR PROFISSIONAL,2,125
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,TAA,TAIFEIRO,2,7
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CCB,CAPITÃO DE CABOTAGEM,9,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CDM,CONDUTOR DE MÁQUINAS,5,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,61
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CMF,CONTRAMESTRE FLUVIAL,4,38
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,88
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MNM,MARINHEIRO DE MÁQUINAS,4,5
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,PFL,PILOTO FLUVIAL,6,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,ENF,ENFERMEIRO,5,1
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MCB,MESTRE DE CABOTAGEM,6,2
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,25
+8,CFRP,PR,Capitania Fluvial do Rio Paraná,PLF,PILOTO FLUVIAL,6,4
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,CFL,CAPITÃO FLUVIAL,7,3
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,110
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,PFL,PILOTO FLUVIAL,6,1
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,POP,PESCADOR PROFISSIONAL,2,464
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MCB,MESTRE DE CABOTAGEM,6,1
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,CMF,CONTRAMESTRE FLUVIAL,4,103
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,232
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,7
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,28
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,35
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,3
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,CDM,CONDUTOR DE MÁQUINAS,5,4
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,2
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,PLF,PILOTO FLUVIAL,6,32
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,CLC,CAPITÃO DE LONGO CURSO,10,2
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,3
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MNM,MARINHEIRO DE MÁQUINAS,4,17
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,34
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,38
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MOC,MOÇO DE CONVÉS,3,3
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,POP,PESCADOR PROFISSIONAL,1,301
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,512
+8,DelGuaira,PR,Delegacia Fluvial de Guaíra,MNC,MARINHEIRO DE CONVÉS,4,1
+8,CPSP,SP,Capitania dos Portos de São Paulo,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,2
+8,CPSP,SP,Capitania dos Portos de São Paulo,MFL,MESTRE FLUVIAL,5,3
+8,CPSP,SP,Capitania dos Portos de São Paulo,CMF,CONTRAMESTRE FLUVIAL,4,9
+8,CPSP,SP,Capitania dos Portos de São Paulo,CMP,CONDUTOR DE MOTORISTA DE PESCA,3,31
+8,CPSP,SP,Capitania dos Portos de São Paulo,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1159
+8,CPSP,SP,Capitania dos Portos de São Paulo,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,20
+8,CPSP,SP,Capitania dos Portos de São Paulo,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,1
+8,CPSP,SP,Capitania dos Portos de São Paulo,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,307
+8,CPSP,SP,Capitania dos Portos de São Paulo,CZA,COZINHEIRO,2,31
+8,CPSP,SP,Capitania dos Portos de São Paulo,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,118
+8,CPSP,SP,Capitania dos Portos de São Paulo,PON,PRATICANTE DE OFICIAL DE NÁUTICA,(null),1
+8,CPSP,SP,Capitania dos Portos de São Paulo,MNC,MARINHEIRO DE CONVÉS,4,403
+8,CPSP,SP,Capitania dos Portos de São Paulo,CDM,CONDUTOR DE MÁQUINAS,5,106
+8,CPSP,SP,Capitania dos Portos de São Paulo,ELT,ELETRICISTA,5,5
+8,CPSP,SP,Capitania dos Portos de São Paulo,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,9
+8,CPSP,SP,Capitania dos Portos de São Paulo,APP,APRENDIZ DE PESCA,1,1
+8,CPSP,SP,Capitania dos Portos de São Paulo,ASA,AUXILIAR DE SAÚDE,3,2
+8,CPSP,SP,Capitania dos Portos de São Paulo,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,8
+8,CPSP,SP,Capitania dos Portos de São Paulo,MCB,MESTRE DE CABOTAGEM,6,224
+8,CPSP,SP,Capitania dos Portos de São Paulo,MOP,MOTORISTA DE PESCA,2,41
+8,CPSP,SP,Capitania dos Portos de São Paulo,POP,PESCADOR PROFISSIONAL,2,735
+8,CPSP,SP,Capitania dos Portos de São Paulo,PMC,PRATICANTE DE MOÇO DE CONVÉS,(null),33
+8,CPSP,SP,Capitania dos Portos de São Paulo,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,5
+8,CPSP,SP,Capitania dos Portos de São Paulo,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,110
+8,CPSP,SP,Capitania dos Portos de São Paulo,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,1
+8,CPSP,SP,Capitania dos Portos de São Paulo,MNM,MARINHEIRO DE MÁQUINAS,4,132
+8,CPSP,SP,Capitania dos Portos de São Paulo,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,18
+8,CPSP,SP,Capitania dos Portos de São Paulo,PAP,PATRÃO DE PESCA EM ALTO MAR,6,14
+8,CPSP,SP,Capitania dos Portos de São Paulo,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,51
+8,CPSP,SP,Capitania dos Portos de São Paulo,ENF,ENFERMEIRO,5,5
+8,CPSP,SP,Capitania dos Portos de São Paulo,CLC,CAPITÃO DE LONGO CURSO,10,22
+8,CPSP,SP,Capitania dos Portos de São Paulo,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,50
+8,CPSP,SP,Capitania dos Portos de São Paulo,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,22
+8,CPSP,SP,Capitania dos Portos de São Paulo,CDE,ESTAGIÁRIO DE CONDUTOR DE MÁQUINAS,(null),4
+8,CPSP,SP,Capitania dos Portos de São Paulo,MOC,MOÇO DE CONVÉS,3,110
+8,CPSP,SP,Capitania dos Portos de São Paulo,TAA,TAIFEIRO,2,10
+8,CPSP,SP,Capitania dos Portos de São Paulo,MOP,MOTORISTA DE PESCA,1,9
+8,CPSP,SP,Capitania dos Portos de São Paulo,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+8,CPSP,SP,Capitania dos Portos de São Paulo,POP,PESCADOR PROFISSIONAL,1,458
+8,CPSP,SP,Capitania dos Portos de São Paulo,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,15
+8,CPSP,SP,Capitania dos Portos de São Paulo,PRT,PRÁTICO,(null),52
+8,CPSP,SP,Capitania dos Portos de São Paulo,MOM,MOÇO DE MÁQUINAS,3,15
+8,CPSP,SP,Capitania dos Portos de São Paulo,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,115
+8,CPSP,SP,Capitania dos Portos de São Paulo,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,45
+8,CPSP,SP,Capitania dos Portos de São Paulo,CTR,CONTRAMESTRE,5,81
+8,CPSP,SP,Capitania dos Portos de São Paulo,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,13
+8,CPSP,SP,Capitania dos Portos de São Paulo,PRP,PRATICANTE DE PRÁTICO,(null),2
+8,CPSP,SP,Capitania dos Portos de São Paulo,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,35
+8,CPSP,SP,Capitania dos Portos de São Paulo,CCB,CAPITÃO DE CABOTAGEM,9,17
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,POP,PESCADOR PROFISSIONAL,1,250
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MOM,MOÇO DE MÁQUINAS,3,30
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,16
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,CTR,CONTRAMESTRE,5,31
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,PRT,PRÁTICO,(null),1
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MOC,MOÇO DE CONVÉS,3,73
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MNM,MARINHEIRO DE MÁQUINAS,4,81
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,8
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,6
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,49
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,55
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,12
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,315
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,CLC,CAPITÃO DE LONGO CURSO,10,13
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,APP,APRENDIZ DE PESCA,2,1
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,5
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,2
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,PPI,PATRÃO DE PESCA NA NAVEGAÇÃO INTERIOR,5,4
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,3
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,CDM,CONDUTOR DE MÁQUINAS,5,43
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,CCB,CAPITÃO DE CABOTAGEM,9,9
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,20
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MCB,MESTRE DE CABOTAGEM,6,97
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MOP,MOTORISTA DE PESCA,2,9
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,555
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,5
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,ELT,ELETRICISTA,5,1
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,5
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MOP,MOTORISTA DE PESCA,1,3
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,POP,PESCADOR PROFISSIONAL,2,405
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,CZA,COZINHEIRO,2,8
+8,DelSSebastião,SP,Delegacia da Capitania dos Portos em São Sebastião,MNC,MARINHEIRO DE CONVÉS,4,182
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MNM,MARINHEIRO DE MÁQUINAS,4,23
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,135
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,EAC,Estagiário de Adaptação de Convés,(null),4
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,20
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,2
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CLC,CAPITÃO DE LONGO CURSO,10,2
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,POP,PESCADOR PROFISSIONAL,2,919
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,11
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MNC,MARINHEIRO DE CONVÉS,4,4
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MOC,MOÇO DE CONVÉS,3,1
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MOP,MOTORISTA DE PESCA,1,12
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,692
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CTR,CONTRAMESTRE,5,5
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CFL,CAPITÃO FLUVIAL,7,68
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MFL,MESTRE FLUVIAL,5,54
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,EAM,Estagiário de Adaptação de Máquinas,(null),7
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,POP,PESCADOR PROFISSIONAL,1,55
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,18
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,68
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,471
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,PFL,PILOTO FLUVIAL,6,8
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,ELT,ELETRICISTA,5,2
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CCB,CAPITÃO DE CABOTAGEM,9,5
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,47
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CZA,COZINHEIRO,2,25
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,96
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,94
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,233
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MCB,MESTRE DE CABOTAGEM,6,8
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,5
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,155
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,18
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,APP,APRENDIZ DE PESCA,1,1
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CMF,CONTRAMESTRE FLUVIAL,4,209
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,PLF,PILOTO FLUVIAL,6,67
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,ENF,ENFERMEIRO,5,3
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,TAA,TAIFEIRO,2,3
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,CDM,CONDUTOR DE MÁQUINAS,5,7
+8,CFTP,SP,Capitania Fluvial do Tietê-Paraná,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,12
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,81
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,5
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,CZA,COZINHEIRO,2,5
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MFL,MESTRE FLUVIAL,5,4
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,93
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,CMF,CONTRAMESTRE FLUVIAL,4,80
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,18
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,34
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,PLF,PILOTO FLUVIAL,6,21
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,CDM,CONDUTOR DE MÁQUINAS,5,9
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,39
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1185
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,POP,PESCADOR PROFISSIONAL,2,785
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MCB,MESTRE DE CABOTAGEM,6,2
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MNM,MARINHEIRO DE MÁQUINAS,4,15
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,CTR,CONTRAMESTRE,5,2
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,POP,PESCADOR PROFISSIONAL,1,12
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,12
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,PFL,PILOTO FLUVIAL,6,3
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,2
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,TAA,TAIFEIRO,2,1
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,CFL,CAPITÃO FLUVIAL,7,3
+8,DelPEpitácio,SP,Delegacia Fluvial de Presidente Epitácio,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,870
+8,CPPR,PR,Capitania dos Portos do Paraná,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,3
+8,CPPR,PR,Capitania dos Portos do Paraná,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,46
+8,CPPR,PR,Capitania dos Portos do Paraná,CCB,CAPITÃO DE CABOTAGEM,9,4
+8,CPPR,PR,Capitania dos Portos do Paraná,MOM,MOÇO DE MÁQUINAS,3,6
+8,CPPR,PR,Capitania dos Portos do Paraná,MAC,MARINHEIRO AUXILIAR DE CONVÉS,1,320
+8,CPPR,PR,Capitania dos Portos do Paraná,CTR,CONTRAMESTRE,5,26
+8,CPPR,PR,Capitania dos Portos do Paraná,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,19
+8,CPPR,PR,Capitania dos Portos do Paraná,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,13
+8,CPPR,PR,Capitania dos Portos do Paraná,POP,PESCADOR PROFISSIONAL,1,221
+8,CPPR,PR,Capitania dos Portos do Paraná,MOP,MOTORISTA DE PESCA,1,18
+8,CPPR,PR,Capitania dos Portos do Paraná,PRT,PRÁTICO,(null),32
+8,CPPR,PR,Capitania dos Portos do Paraná,CLC,CAPITÃO DE LONGO CURSO,10,14
+8,CPPR,PR,Capitania dos Portos do Paraná,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,26
+8,CPPR,PR,Capitania dos Portos do Paraná,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,53
+8,CPPR,PR,Capitania dos Portos do Paraná,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,10
+8,CPPR,PR,Capitania dos Portos do Paraná,MNM,MARINHEIRO DE MÁQUINAS,4,42
+8,CPPR,PR,Capitania dos Portos do Paraná,MOC,MOÇO DE CONVÉS,3,166
+8,CPPR,PR,Capitania dos Portos do Paraná,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,2
+8,CPPR,PR,Capitania dos Portos do Paraná,TAA,TAIFEIRO,2,1
+8,CPPR,PR,Capitania dos Portos do Paraná,POP,PESCADOR PROFISSIONAL,2,877
+8,CPPR,PR,Capitania dos Portos do Paraná,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,1,9
+8,CPPR,PR,Capitania dos Portos do Paraná,MCB,MESTRE DE CABOTAGEM,6,122
+8,CPPR,PR,Capitania dos Portos do Paraná,MOP,MOTORISTA DE PESCA,2,10
+8,CPPR,PR,Capitania dos Portos do Paraná,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,34
+8,CPPR,PR,Capitania dos Portos do Paraná,ASA,AUXILIAR DE SAÚDE,3,1
+8,CPPR,PR,Capitania dos Portos do Paraná,APP,APRENDIZ DE PESCA,1,5
+8,CPPR,PR,Capitania dos Portos do Paraná,ELT,ELETRICISTA,5,3
+8,CPPR,PR,Capitania dos Portos do Paraná,CDM,CONDUTOR DE MÁQUINAS,5,41
+8,CPPR,PR,Capitania dos Portos do Paraná,PLF,PILOTO FLUVIAL,6,1
+8,CPPR,PR,Capitania dos Portos do Paraná,MNC,MARINHEIRO DE CONVÉS,4,320
+8,CPPR,PR,Capitania dos Portos do Paraná,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,7
+8,CPPR,PR,Capitania dos Portos do Paraná,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,926
+8,CPPR,PR,Capitania dos Portos do Paraná,MFL,MESTRE FLUVIAL,5,1
+8,CPPR,PR,Capitania dos Portos do Paraná,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,2
+8,CPPR,PR,Capitania dos Portos do Paraná,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,61
+8,CPPR,PR,Capitania dos Portos do Paraná,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,21
+8,CPPR,PR,Capitania dos Portos do Paraná,CMF,CONTRAMESTRE FLUVIAL,4,2
+8,CPPR,PR,Capitania dos Portos do Paraná,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,2
+8,CPPR,PR,Capitania dos Portos do Paraná,CZA,COZINHEIRO,2,15
+8,CPPR,PR,Capitania dos Portos do Paraná,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,2
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,39
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,138
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,8
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,CZA,COZINHEIRO,2,2
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,1
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,332
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,POP,PESCADOR PROFISSIONAL,2,3
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,12
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,CMF,CONTRAMESTRE FLUVIAL,4,5
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,123
+9,AgCaracaraí,RR,Agência Fluvial de Caracaraí,PLF,PILOTO FLUVIAL,6,2
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,POP,PESCADOR PROFISSIONAL,2,3
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,15
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,2
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,107
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,12
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,PLF,PILOTO FLUVIAL,6,5
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,463
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,CMF,CONTRAMESTRE FLUVIAL,4,31
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MOC,MOÇO DE CONVÉS,3,3
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,CZA,COZINHEIRO,2,14
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,317
+9,AgCSul,AC,Agência Fluvial de Cruzeiro do Sul,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,51
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MFL,MESTRE FLUVIAL,5,1
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,96
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,CMF,CONTRAMESTRE FLUVIAL,4,45
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,97
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,45
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,224
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,PLF,PILOTO FLUVIAL,6,6
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,199
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,1
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,CZA,COZINHEIRO,2,82
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,386
+9,AgEirunepé,AM,Agência Fluvial de Eirunepé,POP,PESCADOR PROFISSIONAL,2,8
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,TAA,TAIFEIRO,2,1
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,ENF,ENFERMEIRO,5,34
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,270
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,3
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,17
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MOP,MOTORISTA DE PESCA,2,1
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,34
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,1
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,SUF,SUPERVISOR MAQUINISTA - MOTORISTA FLUVIAL,7,6
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,257
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,2
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,335
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,8
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,CMF,CONTRAMESTRE FLUVIAL,4,237
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,54
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,237
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,PLF,PILOTO FLUVIAL,6,66
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,ASA,AUXILIAR DE SAÚDE,3,7
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,CFL,CAPITÃO FLUVIAL,7,19
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MNM,MARINHEIRO DE MÁQUINAS,4,2
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,PFL,PILOTO FLUVIAL,6,1
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MFL,MESTRE FLUVIAL,5,11
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,POP,PESCADOR PROFISSIONAL,2,11
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1117
+9,AgItacoatiara,AM,Agência Fluvial de Itacoatiara,CZA,COZINHEIRO,2,142
+9,AgParintins,AM,Agência Fluvial de Parintins,ENF,ENFERMEIRO,5,46
+9,AgParintins,AM,Agência Fluvial de Parintins,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,2
+9,AgParintins,AM,Agência Fluvial de Parintins,MFL,MESTRE FLUVIAL,5,1
+9,AgParintins,AM,Agência Fluvial de Parintins,CMF,CONTRAMESTRE FLUVIAL,4,211
+9,AgParintins,AM,Agência Fluvial de Parintins,ASA,AUXILIAR DE SAÚDE,3,7
+9,AgParintins,AM,Agência Fluvial de Parintins,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,4
+9,AgParintins,AM,Agência Fluvial de Parintins,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,14
+9,AgParintins,AM,Agência Fluvial de Parintins,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+9,AgParintins,AM,Agência Fluvial de Parintins,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,157
+9,AgParintins,AM,Agência Fluvial de Parintins,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,215
+9,AgParintins,AM,Agência Fluvial de Parintins,PLF,PILOTO FLUVIAL,6,39
+9,AgParintins,AM,Agência Fluvial de Parintins,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,447
+9,AgParintins,AM,Agência Fluvial de Parintins,MCB,MESTRE DE CABOTAGEM,6,1
+9,AgParintins,AM,Agência Fluvial de Parintins,MOP,MOTORISTA DE PESCA,2,8
+9,AgParintins,AM,Agência Fluvial de Parintins,POP,PESCADOR PROFISSIONAL,2,30
+9,AgParintins,AM,Agência Fluvial de Parintins,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,1
+9,AgParintins,AM,Agência Fluvial de Parintins,PEP,PESCADOR PROFISSIONAL ESPECIALIZADO,3,1
+9,AgParintins,AM,Agência Fluvial de Parintins,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,485
+9,AgParintins,AM,Agência Fluvial de Parintins,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,113
+9,AgParintins,AM,Agência Fluvial de Parintins,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1002
+9,AgParintins,AM,Agência Fluvial de Parintins,CZA,COZINHEIRO,2,96
+9,AgParintins,AM,Agência Fluvial de Parintins,MOP,MOTORISTA DE PESCA,1,4
+9,AgParintins,AM,Agência Fluvial de Parintins,POP,PESCADOR PROFISSIONAL,1,27
+9,AgTefé,AM,Agência Fluvial de Tefé,POP,PESCADOR PROFISSIONAL,1,15
+9,AgTefé,AM,Agência Fluvial de Tefé,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,189
+9,AgTefé,AM,Agência Fluvial de Tefé,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,10
+9,AgTefé,AM,Agência Fluvial de Tefé,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,49
+9,AgTefé,AM,Agência Fluvial de Tefé,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,400
+9,AgTefé,AM,Agência Fluvial de Tefé,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,8
+9,AgTefé,AM,Agência Fluvial de Tefé,MOP,MOTORISTA DE PESCA,2,4
+9,AgTefé,AM,Agência Fluvial de Tefé,CZA,COZINHEIRO,2,141
+9,AgTefé,AM,Agência Fluvial de Tefé,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,725
+9,AgTefé,AM,Agência Fluvial de Tefé,ENF,ENFERMEIRO,5,4
+9,AgTefé,AM,Agência Fluvial de Tefé,POP,PESCADOR PROFISSIONAL,2,12
+9,AgTefé,AM,Agência Fluvial de Tefé,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,63
+9,AgTefé,AM,Agência Fluvial de Tefé,MNM,MARINHEIRO DE MÁQUINAS,4,1
+9,AgTefé,AM,Agência Fluvial de Tefé,MFL,MESTRE FLUVIAL,5,1
+9,AgTefé,AM,Agência Fluvial de Tefé,PFL,PILOTO FLUVIAL,6,2
+9,AgTefé,AM,Agência Fluvial de Tefé,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,58
+9,AgTefé,AM,Agência Fluvial de Tefé,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,18
+9,AgTefé,AM,Agência Fluvial de Tefé,CDM,CONDUTOR DE MÁQUINAS,5,1
+9,AgTefé,AM,Agência Fluvial de Tefé,CMF,CONTRAMESTRE FLUVIAL,4,138
+9,AgTefé,AM,Agência Fluvial de Tefé,ASA,AUXILIAR DE SAÚDE,3,48
+9,AgTefé,AM,Agência Fluvial de Tefé,PLF,PILOTO FLUVIAL,6,19
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,POM,PRATICANTE DE OFICIAL DE MÁQUINAS,(null),1
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,POP,PESCADOR PROFISSIONAL,2,24
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MNC,MARINHEIRO DE CONVÉS,4,7
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,PCF,Praticante de Capitão Fluvial,(null),1
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,3
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CPI,CONTRAMESTRE DE PESCA NA NAVEGAÇÃO INTERIOR,4,2
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,2
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MNM,MARINHEIRO DE MÁQUINAS,4,4
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,OSM,OFICIAL SUPERIOR DE MÁQUINAS,9,5
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,382
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,1503
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CTR,CONTRAMESTRE,5,2
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CFL,CAPITÃO FLUVIAL,7,90
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,POP,PESCADOR PROFISSIONAL,1,4
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MFL,MESTRE FLUVIAL,5,39
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,PFL,PILOTO FLUVIAL,6,19
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,PRT,PRÁTICO,(null),24
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MOM,MOÇO DE MÁQUINAS,3,1
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,22
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,483
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CZA,COZINHEIRO,2,470
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,ELT,ELETRICISTA,5,1
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,SUF,SUPERVISOR MAQUINISTA - MOTORISTA FLUVIAL,7,1
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,354
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,671
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,16
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,ENF,ENFERMEIRO,5,95
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CDM,CONDUTOR DE MÁQUINAS,5,7
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CMF,CONTRAMESTRE FLUVIAL,4,682
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MCB,MESTRE DE CABOTAGEM,6,6
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,PLF,PILOTO FLUVIAL,6,332
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,TAA,TAIFEIRO,2,4
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,65
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,198
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,5
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,2ON,SEGUNDO OFICIAL DE NÁUTICA,7,15
+9,CFAOC,AM,Capitania Fluvial da Amazônia Ocidental,ASA,AUXILIAR DE SAÚDE,3,21
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,PLF,PILOTO FLUVIAL,6,2
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,53
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,POP,PESCADOR PROFISSIONAL,2,15
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,133
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,31
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,23
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MFL,MESTRE FLUVIAL,5,1
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,CMF,CONTRAMESTRE FLUVIAL,4,16
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,407
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MOP,MOTORISTA DE PESCA,2,2
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,8
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,375
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,CZA,COZINHEIRO,2,9
+9,AgBAcre,AC,Agência Fluvial de Boca do Acre,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,63
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,5
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,CZA,COZINHEIRO,2,3
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,23
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,368
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,ENF,ENFERMEIRO,5,1
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,POP,PESCADOR PROFISSIONAL,2,73
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,CMF,CONTRAMESTRE FLUVIAL,4,39
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,5
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,28
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,18
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,POP,PESCADOR PROFISSIONAL,1,24
+9,AgMirim,RO,Agência Fluvial de Guajará-Mirim,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,680
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,PLF,PILOTO FLUVIAL,6,2
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,POP,PESCADOR PROFISSIONAL,2,3
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,ENF,ENFERMEIRO,5,1
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,259
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,CMF,CONTRAMESTRE FLUVIAL,4,47
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,CZA,COZINHEIRO,2,14
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,78
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,11
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,42
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,392
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MOP,MOTORISTA DE PESCA,2,3
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,2
+9,AgHumaitá,AM,Agência Fluvial de Humaitá,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,85
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MGE,MERGULHADOR QUE OPERA COM AR COMPRIMIDO,3,16
+9,CFPV,RO,Capitania Fluvial de Porto Velho,CMF,CONTRAMESTRE FLUVIAL,4,213
+9,CFPV,RO,Capitania Fluvial de Porto Velho,POP,PESCADOR PROFISSIONAL,1,3
+9,CFPV,RO,Capitania Fluvial de Porto Velho,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,71
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MFL,MESTRE FLUVIAL,5,12
+9,CFPV,RO,Capitania Fluvial de Porto Velho,1ON,PRIMEIRO OFICIAL DE NÁUTICA,8,1
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,150
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MGP,MERGULHADOR QUE OPERA COM MISTURA GASOSA ARTIFICIAL,4,1
+9,CFPV,RO,Capitania Fluvial de Porto Velho,PFL,PILOTO FLUVIAL,6,3
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MCB,MESTRE DE CABOTAGEM,6,4
+9,CFPV,RO,Capitania Fluvial de Porto Velho,ENF,ENFERMEIRO,5,23
+9,CFPV,RO,Capitania Fluvial de Porto Velho,POP,PESCADOR PROFISSIONAL,2,39
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,77
+9,CFPV,RO,Capitania Fluvial de Porto Velho,PLF,PILOTO FLUVIAL,6,157
+9,CFPV,RO,Capitania Fluvial de Porto Velho,SUF,SUPERVISOR MAQUINISTA - MOTORISTA FLUVIAL,7,1
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,12
+9,CFPV,RO,Capitania Fluvial de Porto Velho,1OM,PRIMEIRO OFICIAL DE MÁQUINAS,8,1
+9,CFPV,RO,Capitania Fluvial de Porto Velho,CFL,CAPITÃO FLUVIAL,7,18
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,707
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,10
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,97
+9,CFPV,RO,Capitania Fluvial de Porto Velho,CZA,COZINHEIRO,2,139
+9,CFPV,RO,Capitania Fluvial de Porto Velho,2OM,SEGUNDO OFICIAL DE MÁQUINAS,7,1
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,68
+9,CFPV,RO,Capitania Fluvial de Porto Velho,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,717
+9,CFT,AM,Capitania Fluvial de Tabatinga,POP,PESCADOR PROFISSIONAL,1,14
+9,CFT,AM,Capitania Fluvial de Tabatinga,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,1,419
+9,CFT,AM,Capitania Fluvial de Tabatinga,TAA,TAIFEIRO,2,7
+9,CFT,AM,Capitania Fluvial de Tabatinga,ENF,ENFERMEIRO,5,45
+9,CFT,AM,Capitania Fluvial de Tabatinga,MAM,MARINHEIRO AUXILIAR DE MÁQUINAS,2,1
+9,CFT,AM,Capitania Fluvial de Tabatinga,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,1,58
+9,CFT,AM,Capitania Fluvial de Tabatinga,ASA,AUXILIAR DE SAÚDE,3,40
+9,CFT,AM,Capitania Fluvial de Tabatinga,APP,APRENDIZ DE PESCA,1,1
+9,CFT,AM,Capitania Fluvial de Tabatinga,CTR,CONTRAMESTRE,5,1
+9,CFT,AM,Capitania Fluvial de Tabatinga,MFC,MARINHEIRO FLUVIAL DE CONVÉS,3,497
+9,CFT,AM,Capitania Fluvial de Tabatinga,MAF,MARINHEIRO FLUVIAL AUXILIAR DE CONVÉS,2,968
+9,CFT,AM,Capitania Fluvial de Tabatinga,MFL,MESTRE FLUVIAL,5,8
+9,CFT,AM,Capitania Fluvial de Tabatinga,PFL,PILOTO FLUVIAL,6,8
+9,CFT,AM,Capitania Fluvial de Tabatinga,MAC,MARINHEIRO AUXILIAR DE CONVÉS,2,15
+9,CFT,AM,Capitania Fluvial de Tabatinga,POP,PESCADOR PROFISSIONAL,2,21
+9,CFT,AM,Capitania Fluvial de Tabatinga,PLF,PILOTO FLUVIAL,6,28
+9,CFT,AM,Capitania Fluvial de Tabatinga,CMF,CONTRAMESTRE FLUVIAL,4,172
+9,CFT,AM,Capitania Fluvial de Tabatinga,MMA,MARINHEIRO FLUVIAL AUXILIAR DE MÁQUINAS,2,102
+9,CFT,AM,Capitania Fluvial de Tabatinga,MFM,MARINHEIRO FLUVIAL DE MÁQUINAS,3,119
+9,CFT,AM,Capitania Fluvial de Tabatinga,CTF,CONDUTOR MAQUINISTA - MOTORISTA FLUVIAL,5,17
+9,CFT,AM,Capitania Fluvial de Tabatinga,CZA,COZINHEIRO,2,102
