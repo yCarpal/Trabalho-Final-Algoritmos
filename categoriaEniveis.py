@@ -35,7 +35,7 @@ def listar_orgaos_por_categoria(categoria):
             campos = i.strip().split(',')
             if campos[4] == categoria:
                 categoriass.append(campos[3])  # Adicione o órgão à lista
-    return categoriass
+    return set(categoriass)
 
 def mostrar_niveis_disponiveis():
     print("Níveis disponíveis: 1 a 10")
@@ -48,19 +48,7 @@ def mostrar_cargos_por_nivel(nivel):
             campos = linha.strip().split(',')
             if campos[6] == nivel:
                 cargos_nivel.append(campos[5])  # Adicione o cargo à lista
-    return cargos_nivel
-
-
-def mostrar_quantidade_cargos_por_categoria(categoria):
-    quantidade_cargos = 0
-    with open("aquaviario.csv", "r") as arquivo:
-        linhas = arquivo.readlines()
-        for linha in linhas[1:]:
-            campos = linha.strip().split(',')
-            if campos[4] == categoria:
-                quantidade_cargos += 1
-    
-    print(f"A quantidade de cargos na categoria {categoria} é: {quantidade_cargos}")
+    return set(cargos_nivel)
 
 while True:
     Traco("Nome: Leonardo Cutrim de Oliveira")
@@ -69,7 +57,6 @@ while True:
     Traco("Menu de Opções:")
     Traco("1. Listar órgãos por categoria")
     Traco("2. Mostrar cargos por nível")
-    Traco("3. Mostrar quantidade de cargos por categoria")
     Traco("3. Sair do sistema")
 
     opcao = input("Escolha uma opção: ")
